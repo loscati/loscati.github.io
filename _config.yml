@@ -21,7 +21,7 @@
 title: Salicari's site
 email: leonardo.salicari.physics@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Leonardo Salicari's personal webpage
+  cool description
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: scappati.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://scappati.github.io
