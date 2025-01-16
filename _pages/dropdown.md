@@ -1,9 +1,9 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # change to true to display in the top navigation
 nav_order: 8
-dropdown: true
+dropdown: false # change to true to show children in a dropdown
 children:
   - title: publications
     permalink: /publications/

@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: A friendly frego
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pro_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Playing with bolas in a <a href="https://osm.org/go/xdPdmw7DL">Portonovo's beach</a></p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Leonardo Salicari, I was born in [Perugia, Umbria, Italy](https://www.openstreetmap.org/#map=12/43.1124/12.3885) and now I am currently in Padova, Veneto, Italy pursuing my Ph.D. in Physics. Specifically, I work in the statistical mechanics field with a strong bias towards computational and theoretical biophyics (some say that [I like proteins](https://youtu.be/L2QSMzeSvxk?si=EflSKtiOXzwWEJ2a)).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+If you are interested in my academic carrier you might want to check out the [publication page](publications).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I love to play board games, hiking through and to cool places (from seashores to mountains) and recently took up a [Nikon D3300](https://en.wikipedia.org/wiki/Nikon_D3300) with an 18-55 mm lens and began taking photos of what seems nice.
