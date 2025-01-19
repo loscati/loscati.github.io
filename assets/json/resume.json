@@ -1,24 +1,29 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Leonardo Salicari",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "leonardo.salicari@gmail.com",
+    "phone": "",
+    "url": "https://loscati.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "35123",
+      "city": "Padua",
+      "countryCode": "IT",
+      "region": "Italy"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "leonardo-salicari",
+        "url": "https://www.linkedin.com/in/leonardo-salicari/"
+      },
+      {
+        "network": "GitHub",
+        "username": "loscati",
+        "url": "https://github.com/loscati"
       }
     ]
   },

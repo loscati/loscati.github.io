@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: salicari_leonardo_cv.pdf # TODO: put a link to repo vitae
+description: This is a brief summary of my Curriculum Vitae. For a PDF version, click on the PDF icon on the right.
 toc:
   sidebar: left
 ---
