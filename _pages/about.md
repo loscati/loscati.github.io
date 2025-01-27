@@ -14,6 +14,16 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+# announcements:
+#   enabled: true # includes a list of news items
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#   limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am Leonardo Salicari, I was born in [Perugia (Italy)](https://www.openstreetmap.org/#map=12/43.1124/12.3885) (you might know that for the chocolate or the [jazz](https://www.umbriajazz.it/)), studied Physics for my bachelor's degree and than moved to [Padua](https://osm.org/go/0IBpoal--?relation=44836) to pursuing my Ph.D. in Physics and my carrier as a [medieval fencer](https://en.wikipedia.org/wiki/Historical_European_martial_arts) (I am working on that). Currently, I live in [Bologna](https://osm.org/go/xdUQufh--?relation=43172). I worked on statistical mechanical models of biopolymers and numerical simulations of these (some say that [I like proteins](https://youtu.be/L2QSMzeSvxk?si=EflSKtiOXzwWEJ2a)). Now I am trying to learn as much as possible about High Performance Computing (HPC) in the context of Life Science. 
