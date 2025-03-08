@@ -204,6 +204,8 @@ exclude:
   # excluding teaching and people ====
   - _pages/teaching.md
   - _pages/profiles.md
+  # excluding repos for now TODO ====
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
