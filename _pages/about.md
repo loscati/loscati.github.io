@@ -16,8 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Leonardo Salicari, I was born in [Perugia, Umbria, Italy](https://www.openstreetmap.org/#map=12/43.1124/12.3885) and now I am currently in Padova, Veneto, Italy pursuing my Ph.D. in Physics. Specifically, I work in the statistical mechanics field with a strong bias towards computational and theoretical biophyics (some say that [I like proteins](https://youtu.be/L2QSMzeSvxk?si=EflSKtiOXzwWEJ2a)).
+I am Leonardo Salicari, I was born in [Perugia (Italy)](https://www.openstreetmap.org/#map=12/43.1124/12.3885) (you might know that for the chocolate or the [jazz](https://www.umbriajazz.it/)), were I studied Physics for my bachelor's degree and than moved to [Padua](https://osm.org/go/0IBpoal--?relation=44836) to pursuing my Ph.D. in Physics and my carrier as a [medieval fencer](https://en.wikipedia.org/wiki/Historical_European_martial_arts) (I am working on that). Currently, I live in [Bologna](https://osm.org/go/xdUQufh--?relation=43172). I worked in statistical mechanics with a strong bias towards computational Biophyics (some say that [I like proteins](https://youtu.be/L2QSMzeSvxk?si=EflSKtiOXzwWEJ2a)). Now I am trying to learn as much as possible about High Performance Computing (HPC) in the context of Life Science. 
 
 If you are interested in my academic carrier you might want to check out the [publication page](publications).
 
-I love to play board games, hiking through and to cool places (from seashores to mountains) and recently took up a [Nikon D3300](https://en.wikipedia.org/wiki/Nikon_D3300) with an 18-55 mm lens and began taking photos of what seems nice.
+Most probably, you will find more interesting in the [blog page](blog) (WIP).
+
+I love to play board games, hiking through and to cool places (from seashores to mountains) and recently took up a [Nikon D3300](https://en.wikipedia.org/wiki/Nikon_D3300) with an 35 mm (equivalent 52 mm for a full frame) lens and began taking photos of what seems nice. Trying to improve my knowledge about [Fiore dei Liberi's fencing school](https://wiktenauer.com/wiki/Fiore_de%27i_Liberi).
