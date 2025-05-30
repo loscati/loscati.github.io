@@ -29,9 +29,16 @@
   },
   "work": [
     {
+      "name": "Cineca, Casalecchio di Reno (BO), Italy",
+      "position": "HPC Scientific Application Engineer",
+      "startDate": "2025-04-01",
+      "endDate": "",
+      "summary": "Working for the High Level Support and R&D team, Life Science area.",
+      "highlights": []
+    },
+    {
       "name": "Physics and Astronomy department, University of Padua, Italy",
       "position": "Ph.D. in Physics",
-      "url": "statphys.dfa.unipd.it/",
       "startDate": "2021-10-01",
       "endDate": "2024-12-16",
       "summary": "Statistical mechanics and numerical simulations of topologically entangled proteins.",
