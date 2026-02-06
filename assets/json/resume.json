@@ -3,14 +3,14 @@
     "name": "Leonardo Salicari",
     "label": "",
     "image": "",
-    "email": "leonardo.salicari@gmail.com",
+    "email": "l.salicari @ cineca.it or leonardo.salicari @ gmail.com",
     "phone": "",
     "url": "https://loscati.github.io/",
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "35123",
-      "city": "Padua",
+      "postalCode": "30134",
+      "city": "Bolognas",
       "countryCode": "IT",
       "region": "Italy"
     },
@@ -34,7 +34,11 @@
       "startDate": "2025-04-01",
       "endDate": "",
       "summary": "Working for the High Level Support and R&D team, Life Science area.",
-      "highlights": []
+      "highlights": [
+        "GANANA Project: EU-India collaboration. Responsable of ML immunologic pipeline project and developer of workflows",
+        "EPICURE: Benchmark and development of various EuroHPC projects for Leonardo",
+        "Teaching activities on programming and HPC topics"
+      ]
     },
     {
       "name": "Physics and Astronomy department, University of Padua, Italy",
@@ -61,7 +65,7 @@
       "highlights": []
     },
     {
-      "name": "UColleverde Summer Camps, Italy",
+      "name": "Colleverde Summer Camps, Italy",
       "position": "Children's chaperone",
       "startDate": "2015-06-01",
       "endDate": "2019-07-01",
@@ -69,18 +73,6 @@
       "highlights": []
     }
   ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "url": "https://example.com",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
   "education": [
     {
       "institution": "Physics and Astronomy department, University of Padua, Italy",
@@ -166,35 +158,5 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Computer Science"
-    },
-    {
-      "name": "Data Science"
-    }
   ]
-  // "references": [
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-laptop",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   },
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-thumbtack",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   }
-  // ],
-  // "projects": [
-  //   {
-  //     "name": "Quantum Computing",
-  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-  //     "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-  //     "startDate": "2018-01-01",
-  //     "endDate": "2018-01-01",
-  //     "url": "https://example.com"
-  //   }
-  // ]
 }
