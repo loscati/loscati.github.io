@@ -1,0 +1,24 @@
+---
+layout: post
+title: Teaching "An introduction to Python"
+date: 2026-02-06 01:59:00
+description: Some material from a Python introductory course I taught @ CINECA
+tags: teaching python introduction material 
+categories: teaching
+# thumbnail: assets/img/9.jpg
+# images:
+#   lightbox2: true
+#   photoswipe: true
+#   spotlight: true
+#   venobox: true
+---
+
+In Febbraio 2026, ho partecipato come insegnante ad un corso introduttivo su Python. Credo che questo spazio nel web sara' casa di vari post e discussioni su cosa penso devi argomenti connessi a questa esperienza: l'attivita' didattica in cui trovo una profonda soddisfazione, l'insegnamento come un'attivita' realmente impattante per la societa', le sfide nell'insegnare ad un neofita un argomento, lo stimolo intellettuale nel confrontarsi con insegnanti quanto studenti, l'importanza di trasmettere (efficientemente) la conoscenza e tanto altro. Forse, anche qualche riflessione su Python, il quale oramai uso al di sopra di un livello base da qualche anno, ma che ancora mi lascia molto perplesso. Questo post lo scrivo per una ragione precisa: il materiale prodotto deve essere accessibile a piu' persone possibili. In primis, questo per me da ua ragione alle ore spese nel creare il materia, ragionarci, raffinarlo. In secundis, trovo che il materiale che ho assemblato per le tematiche ho discusso possa avere una qualche sorta di valore; non e' il migliore, assolutamente, ma sono abbastanza orgoglioso di cosa e' venuto fuori ed il feedback degli studenti non e' andato male. Il primo argomento che ho trattato e' stata la primissima introduzione al linguaggio. Mi sono concentrato su le caratteristiche fondamentali del linguaggio, evidenziando come esso abbia la sua forza nella comunita' di pacchetti che lo compone. Certo che Python ha creato il suo dominio tramite le scelte di design che lo contraddistinguono, ma oggi sempre molta piu' gente che non programma regolarmente (grande tema per un altro post, forse) si avvicina ad esso per la sua sintassi, flessibilita' e semplicita'. QUesto, ha come effetto, quello di attirare programmatori a scrivere codice che poi verra' usato dalle persone qui sopra. E' ovvio che ci siano tanti pacchetti fatti da programmatori per programmatori, e forse tutte le librerie scientifiche come NumPy e compagnia bella sono un esempio cardine, ma che esse non sono il motore del successo del linguaggio. QUeste slide poi provano a guidare l'utente nel mondo dei package managers, dei virtual environments e come preparare il proprio ambiente. Sono ovviamente una overview di meno di 30 pagine, ma possono essere molto utili proprio per questo. Il secondo argomento e' stata una breve introduzione alle librerie scientifiche. Un po' generico per dire principalmente NumPy e Pandas (che in realta' e' per la data science, ed era molto richiesto nel corso) e una piccola digressione su SciPy e matplotlib. Con NumPy e SciPy mi sono divertito molto, grazie al fatto che erano le librerie che conoscevo meglio. Con NumPy mi sembra di aver introdotto tutto il necessario per avvicinarsi alla libreria e poter sfruttare i NumPy arrays, con un approccio che non avevo visto in giro sul come introdurre le ufunc (all'inizio per me incomprensibili) e dividere le operazioni sugli array in due classi: funzioni che riducono le dimensioni dell'arary e quelli che non lo fanno. Forse una divisione banale ma mi sembra possa aiutare. Con SciPy, il quale e' troppo sconfinato per presentare anche solo un 20%, mi ci sono divertito a mostrare una FFT. Sempre l'argomento piu' affascinante. Sono soddisfatto del materiale, ma come ogni materiale avra' bisogno di correzioni, aggiunge, rimozioni e updates. Sono sicuro vorro' rifinire l'introduzione, che pero' ora lascio cosi' perche' ha gia' preso piu' 10 pomeriggio. La parte su Pandas manca completamente del groupby e di un esempio realistico di analisi dati. Sarebbe carino da fare ma da una parte ho posa dimestichezza con esso, dall'altro nutro un amore per altre libreria (ciao Polars). Si vedra' se in futuro o alla prossima iterazione, questi cambiamenti prenderanno vita. Per ora lascio il materiale nella repo del sito, con la probabile idea di metterlo in una repo a parte. Infine, per me e' fondamentale ringraziare tutte le risorse da cui ho preso ispirazione per la composizione del materiale, tutte bene o male tutte citate in questo, che vanno da referenze online, materiale dei colleghi degli scorsi anni e video.
+
+### The Material
+
+Some of the material might have broken links, if you find any problems the openly available material can be found in [CINECA's GitLab repo](https://gitlab-hpc.cineca.it/training/python-intro-feb2026).
+
+- [Introduction slides](../assets/pdf/Introduction-to-Python-CINECA2026.pdf)
+- [A primer to `git`](../assets/jupyter/Git.ipynb)
+- [Notebook on NumPy, matplotlib, SciPy and Pandas](../assets/jupyter/Scientific-modules.ipynb)
