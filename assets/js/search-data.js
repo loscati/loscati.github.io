@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "post-teaching-quot-an-introduction-to-python-quot",
+      
+        title: "Teaching &quot;An introduction to Python&quot;",
+      
+      description: "Some material from a Python introductory course I taught @ CINECA",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/introduction-to-python/";
+        
+      },
+    },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
