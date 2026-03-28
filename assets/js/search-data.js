@@ -56,11 +56,11 @@ ninja.data = [{
           window.open("https://github.com/loscati", "_blank");
         },
       },{
-        id: 'social-instagram',
-        title: 'Instagram',
+        id: 'social-custom_social',
+        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/scati.ph", "_blank");
+          window.open("https://codeberg.org/loscati", "_blank");
         },
       },{
         id: 'social-linkedin',
