@@ -28,3 +28,9 @@ La tecnica scelta: la moderna con punto sella
 Cosa ho imparato con i primi test
 
 Il progetto Scarsella
+
+trovare la miniatura
+
+purses in pieces
+
+confrontarsi con gli altri artigiani
