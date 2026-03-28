@@ -11,11 +11,15 @@ email: leonardo.salicari@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: loscati # your GitHub user name
+custom_social: # can be any name here other than the ones already defined above
+  logo: https://design.codeberg.org/logo-kit/icon_inverted.svg # can be png, svg, jpg
+  title: Codeberg
+  url: https://codeberg.org/loscati
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
-instagram_id: scati.ph # your instagram id
+# instagram_id: scati.ph # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
@@ -47,7 +51,3 @@ rss_icon: true # set to true to show the RSS icon
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-# custom_social: # can be any name here other than the ones already defined above
-#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#   title: Custom Social
-#   url: https://www.alberteinstein.com/
