@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>Playing with bolas in <a href="https://osm.org/go/xdPdmw7DL">Portonovo's beach</a></p>
 
-news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+# news: false # includes a list of news items
+# selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 # announcements:
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
