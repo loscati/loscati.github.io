@@ -13,4 +13,4 @@ https://www.lighterra.com/papers/modernmicroprocessors/
 https://www.learncpp.com
 
 ### HPC
-[spack](spack)
+[spack](resources/spack)
