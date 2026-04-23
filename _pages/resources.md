@@ -5,12 +5,15 @@ permalink: /resources
 description: "List(s) of resources to which I come back"
 ---
 
-## Possible
-https://www.lighterra.com/papers/modernmicroprocessors/
 
-## Outstanding
-### CS
-https://www.learncpp.com
+### Programming languages
+- https://www.learncpp.com
+
+### Linux
+- [shell](resources/shell) WIP
 
 ### HPC
-[spack](resources/spack)
+- [spack](resources/spack) WIP
+
+### to review
+https://www.lighterra.com/papers/modernmicroprocessors/
