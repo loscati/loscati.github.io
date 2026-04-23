@@ -10,10 +10,11 @@ description: "List(s) of resources to which I come back"
 - https://www.learncpp.com
 
 ### Linux
-- [shell](resources/shell) WIP
+- [shell](resources/shell)
 
 ### HPC
-- [spack](resources/spack) WIP
+- [spack](resources/spack)
+- [slurm](resources/slurm)
 
 ### to review
 https://www.lighterra.com/papers/modernmicroprocessors/
