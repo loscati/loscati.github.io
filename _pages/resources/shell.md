@@ -1,19 +1,19 @@
 ## Bash
 ### Search
-Search a file or directory with regex:
+Search **a file or directory** with regex:
 ```bash
 find . -iname "string to search*"
 ```
 `-iname` for a case-insensitive search.
 
-Search a **string** inside files:
+Search a **string** inside files recursively:
 ```bash
 grep -rni "string" ./
+```
 `-n` gives line number and `-i` case insensitive
-```bash
 
 ## `git`
-### Interact with remote through ssh keys\
+### Interact with remote through ssh keys
 Generate a key with a custom name and without passphrase (just issue enter):
 ```bash
 ssh-keygen
@@ -26,7 +26,7 @@ git clone git@REMOTE_NAME:GROUP/PROJECT.git
 
 This can be avoided by configuring the `ssh` config file:
 ```bash
-vi ~/.ssh/config
+$ cat ~/.ssh/config
 
 Host github.com
         HostName github.com
