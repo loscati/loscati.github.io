@@ -1,3 +1,10 @@
+---
+layout: page
+title: shell
+permalink: /resources/shell
+description: "sudo please eddai"
+---
+
 ## Bash
 ### Search
 Search **a file or directory** with regex:
@@ -20,8 +27,12 @@ ssh-keygen
 ```
 copy the public key on your git remote provider, and use:
 ```bash
-GIT_SSH_COMMAND="ssh -i ~/.ssh/PRIVATE_KEY_NAME -o IdentitiesOnly=yes" \
+GIT_SSH_COMMAND="ssh -i ~/.ssh/PRIVATE_KEY_NAME" \
 git clone git@REMOTE_NAME:GROUP/PROJECT.git
+```
+Example:
+```bash
+GIT_SSH_COMMAND="ssh -i ~/.ssh/ganana_tutorial" git clone git@github.com:GANANA-EU-INDIA/WP3-P3-tutorial.git
 ```
 
 This can be avoided by configuring the `ssh` config file:

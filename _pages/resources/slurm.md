@@ -1,3 +1,10 @@
+---
+layout: page
+title: slurm
+permalink: /resources/slurm
+description: "slurp!"
+---
+
 ### Submitted and not finished jobs: `scontrol`
 #### Details from submitted job, knowing jobid
 ```bash
@@ -19,6 +26,6 @@ sreport -t percent -T ALL cluster utilization
 
 ### Custom
 #### Node displacement of a run (only on CINECA clusters)
-```bash
+```bas
 cin_seff -j <jobid> -d 2
 ```
