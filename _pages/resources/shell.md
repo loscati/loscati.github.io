@@ -19,6 +19,13 @@ grep -rni "string" ./
 ```
 `-n` gives line number and `-i` case insensitive
 
+### Navigation
+Count the number of entries (files and directories, no hidden) in a directory:
+```bash
+ls -1 | wc -l
+```
+the `-1` (warning: not an "l") removes the `.` and `..` directories, giving the actual number of entries.
+
 ## `git`
 ### Interact with remote through ssh keys
 Generate a key with a custom name and without passphrase (just issue enter):
