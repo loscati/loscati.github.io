@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-teaching-quot-an-introduction-to-python-quot",
+        },{id: "post-teaching-quot-an-introduction-to-c-quot",
+      
+        title: "Teaching &quot;An introduction to C++&quot;",
+      
+      description: "Another introductory course on C++ taught @ CINECA",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/introduction-to-cpp/";
+        
+      },
+    },{id: "post-teaching-quot-an-introduction-to-python-quot",
       
         title: "Teaching &quot;An introduction to Python&quot;",
       
