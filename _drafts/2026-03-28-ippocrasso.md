@@ -64,3 +64,11 @@ L'ippocrasso deve riposare per 42 ore per far macerare il vino, per poi essere f
 
 
 ### Risultato
+
+Il risultato è piacevole al palato. Sapore pieno e poco dolce, non si sente il grado alcolico.
+Questa ricetta soffre delle spezie che sono troppo preponderanti, in particolare il chiodo o l'anice dominano il primo sapore. Mentre il retrogusto ha note amare e forse troppo fresche, probabilmente dovute al vino e allo zenzero.
+
+Punti da migliorare:
+- vino: un souvignon potrebbe donare leggerezza al vino ippocrito, sotto suggerimento di maestri più esperti di me
+- ridurre la presenza dei chiodi e rimodulare quella dello zenzero
+- probabilmente serve scaldare il vino per sogliere il miele. Probabilmente il retrodusto è dovuto anche a quello. Altrimenti, sostituire in toto con zucchero 
