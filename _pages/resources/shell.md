@@ -5,8 +5,8 @@ permalink: /resources/shell
 description: "sudo please eddai"
 ---
 
-## Bash
-### Search
+## bash
+#### search
 Search **a file or directory** with regex:
 ```bash
 find . -iname "string to search*"
@@ -19,7 +19,7 @@ grep -rni "string" ./
 ```
 `-n` gives line number and `-i` case insensitive
 
-### Navigation
+#### navigation
 Count the number of entries (files and directories, no hidden) in a directory:
 ```bash
 ls -1 | wc -l
@@ -27,38 +27,34 @@ ls -1 | wc -l
 the `-1` (warning: not an "l") removes the `.` and `..` directories, giving the actual number of entries.
 
 ## `git`
-### Interact with remote through ssh keys
-Generate a key with a custom name and without passphrase (just issue enter):
+#### ssh keys
+Generate a key with a custom name `mykey` and without passphrase (just issue enter two times):
 ```bash
 ssh-keygen
 ```
-copy the public key on your git remote provider, and use:
+copy the public key into your remote provider (e.g. `github.com` has a section in the repo's settings). Then you can clone it as:
 ```bash
-GIT_SSH_COMMAND="ssh -i ~/.ssh/PRIVATE_KEY_NAME" \
-git clone git@REMOTE_NAME:GROUP/PROJECT.git
+GIT_SSH_COMMAND="ssh -i ~/.ssh/mykey" git clone git@github.com:user/repo.git
 ```
-Example:
-```bash
-GIT_SSH_COMMAND="ssh -i ~/.ssh/ganana_tutorial" git clone git@github.com:GANANA-EU-INDIA/WP3-P3-tutorial.git
-```
+`git` is always the user.
+This can be used for all other commands that exchange data with remote, such as `pull`, `push` etc.
 
-This can be avoided by configuring the `ssh` config file:
+Note: with an already cloned repo, the latter commands works only when the ssh clone was used (no https).
+
+To avoid the enviromental variable, configure:
 ```bash
 $ cat ~/.ssh/config
 
 Host github.com
         HostName github.com
         User git
-        IdentityFile ~/.ssh/githubkey
+        IdentityFile ~/.ssh/mykey
         IdentitiesOnly yes
 ```
-note that `githubkey` is the private key.
-
-> [!NOTE]
-> The remote has to be setup with `ssh` to use this method! E.g. clone the repo using `ssh` and not `https`
+note that `mykey` is the private key.
 
 ## `tmux`
-### Creare una sessione tmux condivisa
+#### creare una sessione tmux condivisa
 1. nel proprio terminale, definire un socket di comunicazione con:
     ```bash
     tmux -S $HOME/mytmux
@@ -75,9 +71,9 @@ To be executed while keeping `ctrl` pressed.
 
 Detach from session: `ctrl` + a, `ctrl` + d
 
-## Profiling
+## profiling
 
-### Save a plot from `.prof`
+#### Save a plot from a `.prof`
 Requires `uv` and `graphviz` installed:
 ```bash
 uvx gprof2dot -f pstats FILE.prof | dot -Tpng -o ./FILE.png

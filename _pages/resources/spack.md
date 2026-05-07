@@ -25,7 +25,7 @@ Find external spec (e.g. cuda, loaded from modules)
 spack external find spec
 ```
 
-> TOTEST
+**WARNING: the below has to be tested**
 
 Do you have **multiple spec, very similar between each other**, and you want to select a specify installed package to perform other operations (such as create a module)?
 ```bash
