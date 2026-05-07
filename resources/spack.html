@@ -4,7 +4,7 @@
 </code></pre></div></div> <p>To check dependencies and whether they are installed/external etc.</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>spack spec <span class="nt">-Il</span> spec
 </code></pre></div></div> <p>Find installation directory (but also staged, etc, see doc) location of <code class="language-plaintext highlighter-rouge">spec</code></p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>spack location <span class="nt">-i</span> spec
 </code></pre></div></div> <p>Find external spec (e.g. cuda, loaded from modules)</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>spack external find spec
-</code></pre></div></div> <blockquote> <p>TOTEST</p> </blockquote> <p>Do you have <strong>multiple spec, very similar between each other</strong>, and you want to select a specify installed package to perform other operations (such as create a module)?</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>spack find <span class="nt">-L</span>
+</code></pre></div></div> <p><strong>WARNING: the below has to be tested</strong></p> <p>Do you have <strong>multiple spec, very similar between each other</strong>, and you want to select a specify installed package to perform other operations (such as create a module)?</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>spack find <span class="nt">-L</span>
 
 gtz562rmr2nk57j7w2g32oniq4xokxak netcdf-fortran@4.6.1
 soamoh7ynsni6smph3mzt6lydpxaiwgd netcdf-fortran@4.6.1
