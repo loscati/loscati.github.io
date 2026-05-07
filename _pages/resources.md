@@ -2,19 +2,19 @@
 layout: page
 title: resources
 permalink: /resources
-description: "List(s) of resources to which I come back"
+description: "List(s) of resources that I find myself going back to"
 ---
 
-### Linux
+### linux
 - [shell](resources/shell)
 
-### HPC
+### hpc
 - [spack](resources/spack)
 - [slurm](resources/slurm)
 
-### Programming languages
-- https://www.learncpp.com
+### programming languages
+- [cpp](https://www.learncpp.com)
 
 
-### to review
-https://www.lighterra.com/papers/modernmicroprocessors/
+#### candidates
+- [how modern microprocessors work](https://www.lighterra.com/papers/modernmicroprocessors/)
