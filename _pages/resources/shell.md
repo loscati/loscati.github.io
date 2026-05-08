@@ -54,6 +54,16 @@ Host github.com
 note that `mykey` is the private key.
 
 ## `tmux`
+
+#### abc
+Create:
+```bash
+tmux
+```
+To detach: `ctrl + b`, then (without `ctrl` pressed) `d`
+
+Tmux has a conda-like cli, follow the suggestions to use it.
+
 #### creare una sessione tmux condivisa
 1. nel proprio terminale, definire un socket di comunicazione con:
     ```bash
