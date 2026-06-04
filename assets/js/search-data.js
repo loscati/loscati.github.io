@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-teaching-quot-an-introduction-to-c-quot",
+        },{id: "post-ricordo",
+      
+        title: "Ricordo",
+      
+      description: "Un pensiero per Carola Frediani e Marjane Satrapi",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/scomparse/";
+        
+      },
+    },{id: "post-teaching-quot-an-introduction-to-c-quot",
       
         title: "Teaching &quot;An introduction to C++&quot;",
       
