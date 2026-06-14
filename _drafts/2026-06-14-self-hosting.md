@@ -114,7 +114,7 @@ A very important thing is that the ports we listen to are HTTP_PORT for HTTP and
 However, when I write in my browser `https://www.example.com` the browser connects by default to port 443. How do I circumvent the standard 443, taken hostage by UGreen OS, for my service?
 
 The answer is: router port forwarding.
-TLDR: In your router settings (usually the expert settings), there is an option to redirect calls from the outside world from a port to another. Obviously, my router is reached by the signal thanks to the domain redirection to the DDNS service and thanks to it that connects a fixed name `leonardo.duckdns.org` to my actual IP.
+TLDR: In your router settings (usually the expert settings), there is an option to redirect calls from the outside world from a port to another. Obviously, my router is reached by the signal thanks to the domain redirection to the DDNS service and thanks to it that connects a fixed name `something.ddns.org` to my actual IP.
 Therefore, if my browser asks for port 443, the router redirects to HTTPS_PORT (which I choose randomly-sh).
 Usually, routers allow you to specify the local IP of your NAS (like `192.168.1.2`) or with a custom name. UGreen allows for a custom fixed name that can be set in `Control Panel > Device connection > LAN > Device Name`. Very handy. 
 
