@@ -5,15 +5,7 @@ date: 2026-02-06 01:59:00
 description: Some material from a Python introductory course I taught @ CINECA
 tags: teaching python introduction material 
 categories: teaching
-# thumbnail: assets/img/9.jpg
-# images:
-#   lightbox2: true
-#   photoswipe: true
-#   spotlight: true
-#   venobox: true
 ---
-
-> A small note before reading: this is my first post and I enjoyed writing it. However, I originally wrote it in italian and probably will update this post to show also that version. However, since the course was in English and I want to reach as many people as possible, I chose to translate it with ChatGPT and then review it manually.
 
 In February 2026, I participated as an instructor in an introductory Python course. I expect this space on the web to host a series of posts and discussions about themes connected to this experience: teaching, an activity from which I derive deep satisfaction; education as a genuinely impactful contribution to society; the challenges of introducing beginners to new subjects; the intellectual stimulation that comes from interacting with both teachers and students; the importance of transmitting knowledge effectively; and much more. Perhaps there will also be room for reflections on Python itself, which I have been using beyond a basic level for several years, yet still occasionally leaves me puzzled.
 
@@ -43,3 +35,8 @@ These notebooks are explorable directly in your browser by clicking the links be
 - [Introduction slides](/assets/pdf/Introduction-to-Python-CINECA2026.pdf)
 - [A primer to `git`](/assets/jupyter/Git.ipynb)
 - [Notebook on NumPy, matplotlib, SciPy and Pandas](/assets/jupyter/Scientific-modules.ipynb)
+
+
+-----
+
+A small note: this is my first post and I enjoyed writing it. However, I originally wrote it in italian and probably will update this post to show also that version. However, since the course was in English and I want to reach as many people as possible, I chose to translate it with ChatGPT and then review it manually.
