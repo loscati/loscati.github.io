@@ -7,6 +7,7 @@ description: "List(s) of resources that I find myself going back to"
 
 ### linux
 - [shell](resources/shell)
+- [containers](resources/containers)
 
 ### hpc
 - [spack](resources/spack)
