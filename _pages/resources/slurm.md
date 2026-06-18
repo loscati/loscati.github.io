@@ -18,9 +18,9 @@ scontrol show job <jobid>
 
 Show all jobs submitted by user from time after `-S` (`-X` only jobid printed):
 ```bash
-sacct -X -u <userid> --format=JobID,JobName,Partition,Account,AllocCPUS,State,ExitCode,Start,End -S date
+sacct -X -u <userid> --format=JobID,JobName,Partition,Account,AllocCPUS,State,ExitCode,Start,End -S now-24hours
 ```
-for `date` it works also `today`, `midnight` etc.
+No `-S` flags means from today's midnight, otherwise `noon`, `fika` (3PM) etc. works too.
 
 *In CINECA Clusters*, a basic report with CPU utilization, time, and memory inpact:
 ```bash
