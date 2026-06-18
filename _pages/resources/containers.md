@@ -7,10 +7,16 @@ description: "docker compose upperò"
 
 ## Docker
 
+#### Inspect an image
+
+Find their layers with:
+```bash
+docker history --no-trunc <image>
+```
 
 ## Singularity/Apptainer
 
-#### Inspect
+#### Inspect an image
 Inspect what happens when you call `run`:
 ```bash
 singularity inspect --runscript image.sif
