@@ -14,14 +14,31 @@ Find their layers with:
 docker history --no-trunc <image>
 ```
 
+#### Dump an image or container into `tar`
+
+You can dump an image into its layers using:
+```bash
+docker save <image> -o image.tar
+```
+
+Or to save a Docker container state:
+```bash
+docker export <container_id> -o container.tar
+```
+
+To load both into a new image:
+```bash
+docker load -i output.tar
+```
+anche se compressi in `gz`.
+
 ## Singularity/Apptainer
 
 #### Inspect an image
-Inspect what happens when you call `run`:
+Inspect the `def` file (and, e.g., the `runscript` section):
 ```bash
-singularity inspect --runscript image.sif
+singularity inspect --deffile image.sif
 ```
-This works with other parts of the def file; ask for help to `inspect`.
 
 #### Save written data after container exits?
 Use persistent overlays. These makes writable an immutable SIF containers that, if something is written in it, it remains after the container exits.
