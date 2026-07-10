@@ -12,10 +12,7 @@ description: "List(s) of resources that I find myself going back to"
 ### hpc
 - [spack](resources/spack)
 - [slurm](resources/slurm)
+- external article: [how modern microprocessors work](https://www.lighterra.com/papers/modernmicroprocessors/)
 
 ### programming languages
 - [cpp](https://www.learncpp.com)
-
-
-#### candidates
-- [how modern microprocessors work](https://www.lighterra.com/papers/modernmicroprocessors/)
