@@ -4,12 +4,12 @@
 
 title: Leonardo Salicari # the website title (if blank, full name will be used instead)
 first_name: Leonardo
-middle_name: 
+middle_name:
 last_name: Salicari
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  If you spot a mistake open a <a href="https://github.com/loscati/loscati.github.io/pulls">pull request</a> | 
+  If you spot a mistake open a <a href="https://github.com/loscati/loscati.github.io/pulls">pull request</a> |
 keywords: blog, portfolio-website # add your own keywords or leave empty
 lang: en, it # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
