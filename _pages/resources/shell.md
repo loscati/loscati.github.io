@@ -55,6 +55,16 @@ note that `mykey` is the private key.
 
 ## `tmux`
 
+#### Split
+
+```bash
+Ctrl + b, 
+```
+- `%` split vertically
+- `"` split horizontally
+- `← ↑ → ↓` to change focus
+- `x` close
+
 #### abc
 Create:
 ```bash

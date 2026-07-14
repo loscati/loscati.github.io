@@ -27,6 +27,16 @@ No `-S` flags means from today's midnight, otherwise `noon`, `fika` (3PM) etc. w
 cin_seff -j <jobid> -d 2
 ```
 
+#### Jobscript and submission
+
+```bash
+sacct -j <jobid> -o submitline -P
+```
+
+```bash
+sacct -j <jobid> --batch-script
+```
+
 ### `sreport`
 #### Cluster report
 
