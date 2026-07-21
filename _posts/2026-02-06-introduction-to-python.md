@@ -33,8 +33,8 @@ Some of the material might have broken links, if you find any problems the openl
 These notebooks are explorable directly in your browser by clicking the links below (thanks Jekyll Notebook!):
 
 - [Introduction slides](/assets/pdf/Introduction-to-Python-CINECA2026.pdf)
-- [A primer to `git`](/assets/jupyter/Git.ipynb)
-- [Notebook on NumPy, matplotlib, SciPy and Pandas](/assets/jupyter/Scientific-modules.ipynb)
+- [A primer to `git`](/assets/notebooks/Git.html)
+- [Notebook on NumPy, matplotlib, SciPy and Pandas](/assets/notebooks/Scientific-modules.html)
 
 
 -----
