@@ -5,7 +5,7 @@ permalink: /resources/slurm
 description: "slurp!"
 ---
 
-### `scontrol`
+## `scontrol`
 #### For running jobs
 
 Details from submitted job, knowing the `jobid`:
@@ -13,7 +13,7 @@ Details from submitted job, knowing the `jobid`:
 scontrol show job <jobid>
 ```
 
-### `sacct`
+## `sacct`
 #### For finished jobs
 
 Show all jobs submitted by user from time after `-S` (`-X` only jobid printed):
@@ -27,7 +27,17 @@ No `-S` flags means from today's midnight, otherwise `noon`, `fika` (3PM) etc. w
 cin_seff -j <jobid> -d 2
 ```
 
-### `sreport`
+#### Jobscript and submission
+
+```bash
+sacct -j <jobid> -o submitline -P
+```
+
+```bash
+sacct -j <jobid> --batch-script
+```
+
+## `sreport`
 #### Cluster report
 
 Brief cluster usage right now:

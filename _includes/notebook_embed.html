@@ -1,0 +1,20 @@
+{%- comment -%}
+  Embeds a notebook (already converted to static HTML by
+  scripts/convert-notebooks.sh) inside a post or page.
+
+  Usage, in a post's body:
+    {% include notebook_embed.html path="/assets/notebooks/example-notebook.html" title="Example Notebook" %}
+{%- endcomment -%}
+<div class="notebook-embed">
+  <iframe
+    class="notebook-frame"
+    src="{{ include.path | relative_url }}"
+    title="{{ include.title | default: 'Notebook' }}"
+    loading="lazy">
+  </iframe>
+  <p class="post-meta">
+    <a href="{{ include.path | relative_url }}" target="_blank" rel="noopener">
+      Open notebook in a new tab &rarr;
+    </a>
+  </p>
+</div>

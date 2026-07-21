@@ -1,0 +1,45 @@
+{%- comment -%}
+  Usage, in any post/page front matter:
+
+    photos:
+      - src: /assets/photos/album/01.jpg
+        alt: Description for accessibility
+        caption: Optional caption shown in the lightbox
+      - src: /assets/photos/album/02.jpg
+        alt: Another photo
+
+  Then in the body: {% include gallery.html photos=page.photos %}
+  Full-resolution files can be linked separately via `full` if you
+  want a smaller thumbnail but a larger lightbox/original image:
+
+      - src: /assets/photos/album/01-thumb.jpg
+        full: /assets/photos/album/01.jpg
+        alt: Description
+{%- endcomment -%}
+<div class="gallery">
+  {%- for photo in include.photos %}
+  <button type="button" class="gallery-item" data-full="{{ photo.full | default: photo.src | relative_url }}" data-caption="{{ photo.caption | default: photo.alt }}" data-index="{{ forloop.index0 }}">
+    <img src="{{ photo.src | relative_url }}" alt="{{ photo.alt | default: '' }}" loading="lazy">
+  </button>
+  {%- endfor %}
+</div>
+
+<dialog class="lightbox" id="lightbox" aria-label="Photo viewer" aria-describedby="lightbox-caption">
+  <div class="lightbox-shell">
+    <div class="lightbox-toolbar">
+      <span class="lightbox-counter" id="lightbox-counter" aria-live="polite"></span>
+      <button type="button" class="lightbox-close" id="lightbox-close" aria-label="Close viewer">&times;</button>
+    </div>
+
+    <div class="lightbox-viewport">
+      <button type="button" class="lightbox-nav lightbox-nav-prev" id="lightbox-prev" aria-label="Previous image">&#10094;</button>
+      <div class="lightbox-main">
+        <img id="lightbox-img" src="" alt="">
+      </div>
+      <button type="button" class="lightbox-nav lightbox-nav-next" id="lightbox-next" aria-label="Next image">&#10095;</button>
+    </div>
+
+    <p id="lightbox-caption" class="lightbox-caption"></p>
+    <div class="lightbox-thumbs" id="lightbox-thumbs"></div>
+  </div>
+</dialog>
