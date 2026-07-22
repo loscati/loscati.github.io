@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-permalink: /teaching
+permalink: /teaching/
 description: "List(s) of teaching resources that I made"
 ---
 
