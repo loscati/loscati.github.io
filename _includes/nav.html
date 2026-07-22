@@ -1,0 +1,15 @@
+<header class="site-header">
+  <nav class="nav container">
+    <a class="nav-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+    <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+
+    <ul class="nav-menu" id="nav-menu">
+      {%- for link in site.nav_links %}
+      <li><a href="{{ link.url | relative_url }}" {% if page.url == link.url %}aria-current="page"{% endif %}>{{ link.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </nav>
+</header>

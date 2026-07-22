@@ -5,7 +5,7 @@ permalink: /resources/slurm
 description: "slurp!"
 ---
 
-### `scontrol`
+## `scontrol`
 #### For running jobs
 
 Details from submitted job, knowing the `jobid`:
@@ -13,7 +13,7 @@ Details from submitted job, knowing the `jobid`:
 scontrol show job <jobid>
 ```
 
-### `sacct`
+## `sacct`
 #### For finished jobs
 
 Show all jobs submitted by user from time after `-S` (`-X` only jobid printed):
@@ -37,7 +37,7 @@ sacct -j <jobid> -o submitline -P
 sacct -j <jobid> --batch-script
 ```
 
-### `sreport`
+## `sreport`
 #### Cluster report
 
 Brief cluster usage right now:
