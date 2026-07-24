@@ -53,6 +53,21 @@ Host github.com
 ```
 note that `mykey` is the private key.
 
+## Compilation
+
+#### rpath
+
+Search runpath (default path for dynamically linked libraries)
+```bash
+readelf -d <exe> | grep -i runpath
+```
+
+#### binary comparison
+
+```bash
+cmp file1 file2
+```
+
 ## `tmux`
 
 #### Split
