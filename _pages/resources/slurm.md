@@ -38,6 +38,13 @@ sacct -j <jobid> --batch-script
 ```
 
 ## `sreport`
+
+#### Project report
+
+```bash
+sreport cluster AccountUtilizationByUser Accounts=PROJECT Start=2025-09-29 End=2026-07-31
+```
+
 #### Cluster report
 
 Brief cluster usage right now:
