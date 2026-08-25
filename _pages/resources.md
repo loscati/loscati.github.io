@@ -13,3 +13,6 @@ description: "List(s) of resources that I find myself going back to"
 - [spack](/resources/spack)
 - [slurm](/resources/slurm)
 
+### backpacking
+- [pool](/resources/pool)
+- [montelago](/resources/montelago)
