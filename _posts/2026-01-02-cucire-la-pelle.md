@@ -42,8 +42,28 @@ Per tagliare la pelle, suggerisco di fissare il modello con dello scotch, che pe
 
 ## La pelle
 
+Per questo progetto la pelle è stata scelta per convenienza. Non avendo grande disponibilità, sono andato su una pelle abbastanza rigida ma sottile. Queste scarselle vanno piegate e lavorate, non serve avere imporanti spessori per complicare queste procedure.
+
+La pelle scelta è stata di un laboratorio toscano (cosa non stupefacente) pagata 40 euro per più di un 1 metro quadro. Dovrebbe essere di prima o massimo seconda scelta, con solo un'imperfezione su un lato. Ho scelto una conciatura vegetale che lascia la pelle permeabile, colorata (molto bene) di un marrone con toni rossi. Non ricordo l'animale di provenienza, ma molto probabilmente è di vacca.
+Si può apprezzare anche il lato "bello" della pelle da quest'immagine che mostra il retro dove ho fissato una delle stringhe che chiude il coperchio:
+![parte bella e fermo per uno dei lacci a chiusura del coperchio](/assets/img/scarsella/retro.webp)
+
+La chiusura è stata fatto con questo motivo incrociato. Tornando indietro, avrei fatto una cucitura lungo la direzione del laccetto, per evitare che questo si muova a destra e a sinistra (cosa che fa ora ma che non dovrebbe).
+
 ## Gli strumenti
 
+
+## Procedimento
+
+### Tagliare
+
+### La chiusura
+
+### Un disegno?
+
+### Cucitura
+
+### La fibbia
 
 
 ## Materiali
