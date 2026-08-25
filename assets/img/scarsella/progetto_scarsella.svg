@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="594mm"
-   height="841mm"
-   viewBox="0 0 594 841"
+   width="550mm"
+   height="550mm"
+   viewBox="0 0 550 550"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="progetto_scarsella.svg"
    inkscape:export-filename="/home/leonardo/Downloads/progetto_scarsella.png"
    inkscape:export-xdpi="96"
@@ -27,14 +27,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.35355339"
-     inkscape:cx="927.7241"
-     inkscape:cy="2457.9032"
-     inkscape:window-width="1066"
+     inkscape:cx="1159.6551"
+     inkscape:cy="992.77792"
+     inkscape:window-width="1093"
      inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g41"
+     inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true">
     <inkscape:grid
@@ -52,27 +52,27 @@
        enabled="true"
        visible="true" />
     <sodipodi:guide
-       position="24.999999,746"
+       position="24.999999,454.99999"
        orientation="1,0"
        id="guide8"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="140,676.00001"
+       position="140,385"
        orientation="1,0"
        id="guide9"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="242.99999,528.51515"
+       position="242.99999,237.51515"
        orientation="0,-1"
        id="guide16"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="195,580.99999"
+       position="195,289.99999"
        orientation="0,-1"
        id="guide36"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="215,481"
+       position="215,190"
        orientation="0,-1"
        id="guide37"
        inkscape:locked="false" />
@@ -505,6 +505,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.145024;stroke-linejoin:round"
+       id="rect2"
+       width="520"
+       height="550"
+       x="0"
+       y="0" />
+    <rect
        style="fill:#000000;stroke-width:0.420249"
        id="rect3"
        width="180"
@@ -525,10 +532,10 @@
        y="455.41132"
        id="text4"><tspan
          sodipodi:role="line"
-         id="tspan4"
          style="font-size:10px;stroke-width:0.264583"
          x="28.011728"
-         y="455.41132">Dimensioni telefono (abbondanti)</tspan></text>
+         y="455.41132"
+         id="tspan1">Dimensioni telefono</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.03045;stroke-dasharray:none;stroke-opacity:1"
        id="rect5"
@@ -539,23 +546,23 @@
     <text
        xml:space="preserve"
        style="font-size:8px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
-       x="267.35757"
-       y="412.37634"
+       x="210"
+       y="420"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="font-size:8px;stroke-width:0.264583"
-         x="267.35757"
-         y="412.37634">Specifiche:</tspan><tspan
+         x="210"
+         y="420">Specifiche:</tspan><tspan
          sodipodi:role="line"
          style="font-size:8px;stroke-width:0.264583"
-         x="267.35757"
-         y="422.37634"
+         x="210"
+         y="431.07446"
          id="tspan6">- pezzo principale: altezza &gt; 13(retro tasca)+18(loops)+7(coperchio) cm = 38cm</tspan><tspan
          sodipodi:role="line"
          style="font-size:8px;stroke-width:0.264583"
-         x="267.35757"
-         y="432.37634"
+         x="210"
+         y="442.14893"
          id="tspan7">- pezzo principale: larghezza &gt; 20cm</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-dasharray:none;stroke-opacity:1"

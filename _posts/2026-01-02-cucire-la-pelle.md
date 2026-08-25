@@ -26,6 +26,7 @@ Per la forma generale, ho scelto una forma spanciata a goccia, semplice e pratic
 
 Ho create la forma in vettoriale con Inkscape e si può vedere in vettoriale [qui](/assets/img/scarsella/progetto_scarsella.svg) o in pdf [qui](/assets/pdf/progetto_scarsella.pdf).
 Quindi questo è la forma da stampare per il modello carta:
+
 ![modello carta scarsella](/assets/img/scarsella/progetto_scarsella.svg)
 
 Le dimensioni sono state scelte per riuscire a contenere un telefono di almeno 15x7.5x0.7 cm (altezza, larghezza, spessore). Un consiglio fondamentale dato da una compagna autodidatta sulle scarselle è: se ti sembrano grandi, non lo sono abbastanza. Non bisogna stare precisi al millimetro, soprattutto nei primi beta testing di un nuovo modello, perché tra cuciture, rigidità della pelle e altri fattori si rischia che la scarsella sia troppo piccola.
@@ -52,6 +53,25 @@ La chiusura è stata fatto con questo motivo incrociato. Tornando indietro, avre
 
 ## Gli strumenti
 
+Forse, radunare gli strumenti è stata una delle cose che ha preso più tempo. Sia perché non si trovano se non online, sia perché era la prima esperienza a comprare tali strumenti, per cui molto tempo è andato nella ricerca di ciò che mi era necessario e che avesse un costo non esorbitante.
+
+Di seguito, tutti i materiali utilizzati per realizzare la scarsella:
+
+- [pelle di vacca di 4 mm, poco rigida](#la-pelle) per la parte principale della scarsella
+- pelle morbida < 5mm per creare corde, io ho usato una pelle scamosciata di vacca che avevo a disposizione
+- filo di lino. Altre fibre vegetali come la seta andrebbe comunque bene, suppur più costosa; mentre il cotone non era molto presente nell'alto medioevo italiano. Può essere usato per convenienza ma al prezzo dell'accuratezza.
+- cera d'api, per cerare il filo
+- aghi per la lana. Esistono anche per la pelle però non strettamente necessari, basta che la punta sia smussata
+- punzoni a forchetta per la pelle (usate per la tecnica moderna della cucitura a mano). Queste vengono vendute per diverse distanze tra le punte, con diverse convenzioni (e relativi casini). Io ho usato delle forchette con distanza tra le punte di 5mm. Per semplicità nella foratura, ho usato forchette a due punte, le quali facilitano la foratura della pelle e la loro estrazione. Vengono vendutin set sia con più punte che singole, consiglio un set
+- un martello con testa in nylon. Di gomma o legno andrebbe comunque bene, questi non rovinano la forchetta in acciaio
+- tappeto in gomma da mettere sotto la pelle durante la foratura, le forchette vi si conficcano quanto si buca la pelle ed evitano che le punte si rovinino. Questi costano abbastanza ma basta prenderne uno piccolino, e.g. 20cmx15cm di 9mm di profondità
+- accendino per rifinire le cuciture
+- taglierino. Ideale sarebbe un coltello per la pelle, e vi sono molti modelli "giapponesi" di ottima fattura ma costosi. Per iniziare basta un taglierino
+- un supporto dove tenere la pelle mentre si cuce. Canonicamente si usa uno strumento in legno chiamato pony da sellaio (clamp), ma io l'ho riprodotto con delle mollette attaccate ad un tavolo
+- fibbia in ottone
+- pinza fustellatrice
+
+Opzionale si può prendere anche un colorante (dye) per rifinire i lati della pelle della scarsella per mantenere il colore della pelle anche nei lati.
 
 ## Procedimento
 
@@ -65,6 +85,15 @@ La chiusura è stata fatto con questo motivo incrociato. Tornando indietro, avre
 
 ### La fibbia
 
+
+## Conclusioni
+
+Cose che mi sono piaciute:
+- La pelle scelta ha una resa stupenda
+
+Cose che farei diversamente:
+- La striscia di pelle che chiude il coperchio con la fibbia dovrebbe essere fissato diversamente al retro della scarsella. Farei delle cuciture che si estendono per la parte lunga della striscia in modo che la la suggetta striscia non si muova troppo a destra e a sinistra
+- Il modello potrebbe essere un po' piu' grande
 
 ## Materiali
 
