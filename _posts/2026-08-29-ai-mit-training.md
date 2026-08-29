@@ -3,7 +3,7 @@ layout: post
 title: "Commento: report MIT sull'uso dell'AI nei corsi universitari"
 date: 2026-08-29 01:59:00
 description: "Riepilogo: c'è del marcio nella mostra società"
-tags: training 
+tags: teaching
 categories: comment
 ---
 
