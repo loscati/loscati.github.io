@@ -77,13 +77,42 @@ Opzionale si può prendere anche un colorante (dye) per rifinire i lati della pe
 
 ### Tagliare
 
-### La chiusura
+Molto semplice: si mette il carta modello sulla pelle, si posiziona per evitare di sprecarla, costa!, per poi tagliate con il taglierino. Si può usare dello scotch poco adesivo, o dopo aver passato la parte appiccicosa su un tessuto per evitare di lasciare segni sulla pelle, per mantenere il modello fermo.
+
+Come si taglia la pelle per avere un taglio pulito? lama affilata e taglierino con lama perpendicolare al tavolo, no angoli. Quando si fanno curve, ruotate il corpo è meglio del carta modello.
+
+Un consiglio al Leonardo principiante: non ripassare un taglio, cerca di farlo diventare un unico movimento, ne gioverà la qualità del taglio.
+
+Si dovrebbero ottenere due pezzi: il più lungo che sarà il retro e il coperchio della scarsella, e il più piccolo che formerà la tasca.
+Il più piccolo ha i bordi che saranno cuciti definiti, mentre il lato.dove sarà l'apertura, no. Qui lascio all'artigiano la libertà di capire quanto tagliare. Il mio consiglio è di non tagliarla come linea retta ma di dargli una concavità, come una mezza luna. Così da facilitare l'ingresso alla tasca.
+
+### La fibbia per chiudere in maniera sicura la scarsella
+
+Prima di cucire i due pezzi, serve fissare il lembo di pelle che chiudera la cinghia del coperchio.
+
+Per ricavare il lembo di pelle dovete tenere a mente le seguenti cose. Per la lunghezza, misurate dove lo fisserete e dove deve arrivare una volta chiuso il coperchio (fate pure una prova chiudendo il coperchio nella parte di pelle più grande). Inoltre, considerate un lembo aggiuntivo di 4cm o più perché servirà per fissare la fibbia. Per la lunghezza, consideratene abbastanza per riuscire a passare dentro la fibbia, nella sua parte centrale, quella con la parte che si inserisce nei buchi. 
+
+L'immagine sopra rappresenta la cucitura fatta. A mio avviso, sarebbe stato meglio fare una cucitura più in lunghezza, nel senso che imvece di essere un quadrato (cucito con questo motivo a quadrato e x, provvisato da me, senza particolari studi) sarebbe stato meglio un parallele pipedo oppure due linee di cucitura a sella dai due lati. Con l'idea di nom farlo dondolare a destra e sinistra.
+Più dettagli sul punto sella, più avanti.
+
+Il filo è di lino color naturale, che prima di inserire ho passato nel cubo di cera d'api per renderlo più scorrevole.
+La pelle è stata forata con il punzone a forchetta singola, facendo attenzione a non bucate troppo vicino al bordo, tenendo circa 3-4 mm. Questo vale in generale per la cucitura di pelli sottili, buchi vicino al bordo indeboliscono la pelle.
+Ho prima forato la lingua di pelle, e poi, appoggiandola sopra al pezzo che fa da retro, ho segnato con una matita dove forarlo e poi ho smartellato.
+farlo prende veramente 5 minuti.
+
+A questo punto si può anche mettere la fibbia. Io prendo l'altro lembo della lingua di pelle appena fissata e la avvolgo alla fibbia. Bisogna prima creare un foro per il pirulino (fidatevi, termine tecnico >.>), inserire la fibbia (attenzione al verso! controllate che sia nella posizione giusta quando poi chiuderete il tutto) e girare la lingua per chiuderlo.
+Io foro la pelle e faccio 4 punti da cucire poi a sella (più dettagli, più avanti). Una cucitura che faccio con premura perché sempre visibile, ma anche molto semplice.
+Se la pelle risultasse difficile da piegare nel punto che avvolge la fibbia, si può assottigliare tagliandone un millimetro della parte "brutta". Questa parte richiede un po' di precisione, ma ricorda il tagliare una focaccia per aprirla oppure un pam di spagna appena cotto. Bisogna stare attenti ma è semplice.
 
 ### Un disegno?
 
-### Cucitura
+A questo stadio, se uno volesse decorare il coperchio della scarsella, sarebbe opportuno prendere gli strumenti (ci si vede ad un futuro post) e realizzarlo. Così da non avere in mezzo l'altro pezzo.
 
-### La fibbia
+Questo sarà sicuramente hn miglioramento per la prossima scarsella.
+
+### Baciare le due parti e la cucitura a sella
+
+### Chiudere la parte superiore
 
 
 ## Conclusioni
@@ -94,6 +123,7 @@ Cose che mi sono piaciute:
 Cose che farei diversamente:
 - La striscia di pelle che chiude il coperchio con la fibbia dovrebbe essere fissato diversamente al retro della scarsella. Farei delle cuciture che si estendono per la parte lunga della striscia in modo che la la suggetta striscia non si muova troppo a destra e a sinistra
 - Il modello potrebbe essere un po' piu' grande
+- Alla prossima, realizzerò un disegno sul coperchio
 
 ## Materiali
 
