@@ -26,6 +26,29 @@ ls -1 | wc -l
 ```
 the `-1` (warning: not an "l") removes the `.` and `..` directories, giving the actual number of entries.
 
+#### I/O
+
+[Source](9https://tldp.org/LDP/abs/html/io-redirection.html):
+```bash
+1>filename
+    # Redirect stdout to file "filename."
+2>filename
+    # Redirect stderr to file "filename."
+&>filename
+    # Redirect both stdout and stderr to file "filename."
+```
+
+```bash
+2>&1
+    # Redirects stderr to stdout.
+    # Error messages get sent to same place as standard output.
+bad_command >>filename 2>&1
+    # Appends both stdout and stderr to the file "filename"
+bad_command 2>&1 | awk '{print $5}'
+    # Sends stderr through a pipe.
+    # |& was added to Bash 4 as an abbreviation for 2>&1 |.
+```
+
 ## `git`
 #### ssh keys
 Generate a key with a custom name `mykey` and without passphrase (just issue enter two times):
