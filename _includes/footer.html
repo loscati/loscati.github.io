@@ -2,8 +2,9 @@
   <div class="container footer-inner">
     <p>{{ 'now' | date: "%Y" }} {{ 'now' | date: "%B" }}, {{ site.github_username }}</p>
     <p class="footer-links">
-      {%- if site.github_username %}<a href="https://github.com/{{ site.github_username }}">GitHub</a>{% endif %}
       <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+      {%- if site.github_username %}<a href="https://github.com/{{ site.github_username }}">GitHub</a>{% endif %}
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">License</a>
     </p>
   </div>
 </footer>
