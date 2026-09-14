@@ -108,9 +108,43 @@ Se la pelle risultasse difficile da piegare nel punto che avvolge la fibbia, si 
 
 A questo stadio, se uno volesse decorare il coperchio della scarsella, sarebbe opportuno prendere gli strumenti (ci si vede ad un futuro post) e realizzarlo. Così da non avere in mezzo l'altro pezzo.
 
-Questo sarà sicuramente hn miglioramento per la prossima scarsella.
+Questo sarà sicuramente un miglioramento per la prossima scarsella.
 
 ### Baciare le due parti e la cucitura a sella
+
+Dopo molto ragionamento, ho optato per la chiusura piu' semplice. Per rimanere filologico e per sfruttare la pelle a mia disposizione (quella sopra citata) ho deciso di creare la sacca della scarsella unendo, banalmente, le due parti.
+
+Si parte dalle parti "belle" della pelle che si devono "baciare", come descrive la madre di una mia compagna di rievocazione. Per poi procedere con l'effettiva cucitura. Prima di iniziare, assicurarsi che la parte anteriore del lembo di pelle abbia il bordo che farà da ingresso alla scarsella abbastanza "slabbrato". Se lasciate quel lato lineare, rischiate che poi sarà difficile inserire qualsiasi cosa.
+
+Per la cucitura ho scelto una a sella. Non è filologica, ma questa finirà dentro la sacca e quindi nascosta da occhi indiscreti di filologi iracondi. Ho fissato i due lembi di pelle con 3 pezzettini di scotch, tanto è la parte interna, e poi ho inziato a bucherellare. Ho usato un punzone a forchetta con singola punta, una baglionetta praticamente. Così da forare ed estrarre meglio l'arnese. Prende un po' di tempo, circa 2 orette per una mano non allenata come la mia, ma giuro è catartico.
+
+Io ho proceduto bucando e poi cucendo, a mano a mano. Per il filo ho usato la regola del "prendo abbastanza filo per coprire il percorso che devo fare e lo triplico". La tecnica mi è stata tramandata da un maestro che insegna l'arte del cuoio e fa un ippocraso divino. Io lo riporto *ipse dixit*. Ricordate di cerare il vostro filo prima dell'utilizzo. Questo renderà più semplice la chiusura con l'accendino e, credo, migliorerà la scorrevolezza.
+Dico credo perché tutti mi hanno detto avrebbe fatto la differenza, ma io in realtà è come se avessi irrigidito ed aumentato l'attrito del filo. Quindi non so, vedete voi.
+
+Lascio la spiegazione del punto sella ad alcuni video, che finiranno per essere molto più esplicativi di me. Adoro l'approccio passo a passo di [J.H. Leather](https://youtu.be/FxZsHLmZhyk?si=gE3kcGTkmzqvWUEP) (ion inglese) con tanto dei suoi trucchi per renderlo simmetrico; hanno migliorato la mia tecnica i consigli di [Azelio](https://youtu.be/M74f0vHcImE?si=qIfPbHSDtVQtw9FD); infine mi ha salvato la chiusura spiegata da [Adhras art](https://youtu.be/yGV9Wm3A2OY?si=yOaSZ4oazZVN0nTZ) (link al minuto del consiglio).
+
+Il *making of*:
+
+![La cucitura, nel mentre](/assets/img/scarsella/cucitura_a_sella.webp)
+
+e il risultato finale:
+
+![La cucitura, finita](/assets/img/scarsella/cucitura_fronte_retro.webp)
+
+Con tanto di chiusura e bruciatura del filo (cerato):
+
+![La chiusura](/assets/img/scarsella/cucitura_chiusura_accendino.webp)
+
+Infine, ci serve di ribaltare la situazione.
+
+La pelle in mio possesso era un po' rigida, per cui serviva uno stratagemma per ribaltarla a calzino e far vedere finalmente la parte bella della scarsella. La tecnica mi è arrivata in sogno in una notte di mezz'estate. Se per sogno si intende una gita alla fiera di [Usi e Costumi](https://www.usiecostumi.org/) di Ferrara, e per notte di mezz'estate si intende la venuta di un mastro calzolaio che mi ha scherzato "ma come?! ma certo che la pelle si ammorbidisce se bagnata. Guarda come beve!" spruzzandola d'acqua.
+
+Per cui, il modo per ribaltarla è tanta acqua, proprio da impregnarla questa pelle, un po' di pazienza e una cucchiara (o mestolo in legno da cucina). Quest'ultimo ha la capacità di essere comodo per finire il lavoro in alcuni angoli, come questi:
+
+![ribalta la mossa!](/assets/img/scarsella/calsino.webp)
+
+Abbiate pazienza, riuscirete.
+
 
 ### Chiudere la parte superiore
 
@@ -127,7 +161,7 @@ Cose che farei diversamente:
 
 ## Materiali
 
-Tutti i file sono distribuiti con licenza [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/):
+Tutti i file sono distribuiti con licenza [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/):
 - [Vettoriale per il carta modello](/assets/img/scarsella/progetto_scarsella.svg)
 
 ## Referenze
