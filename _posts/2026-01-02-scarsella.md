@@ -145,16 +145,42 @@ Per cui, il modo per ribaltarla è tanta acqua, proprio da impregnarla questa pe
 
 Abbiate pazienza, riuscirete.
 
-
 ### Chiudere la parte superiore
 
+Ora rimane che cucire i due lembi superiori per formare dei passanti dove far scorrere la cintura. Questa chiusura, invece di essere noiosamente chiusa dal tessuto, di solito usa un "filo" di pelle per chiudere e decorare. Per cui abbellisce e rende più interessante la parte frontare della scarsella, con motivi e ricami che possono andare dal semplice °punto erba° (con questa corda di pelle che va prima da un aparte, e poi dall'altra) o arzigogoli più o meno intricati. Tutti accurati storicamente. Anche qui *Purses in Pieces* viene in aiuto descrivendo bene i patterns, che pero' non posso riportare qui.
+
+Quello scelto da me è fatto così:
+
+![Un bel pattern](/assets/img/scarsella/stringhe_progresso.webp)
+
+Intanto la preparazione. Ricordo qui che [*if you gonna cut once you better measure twice*](https://youtu.be/sfcaaKnl7T4?si=teDPiSw2euGidd7Y), ovvero contate bene quanti buchi fare e dove per renderlo simmetrico. Come potete vedere, io ho fatto un piccolo errore di calcolo. Mentre invece il buco in sé, è fatto con la pinza fustellatrice. Da ricordarsi un pezzo di crosta o di cuoio abbastanza spesso da mettere sulla base della fustellatrice, così da evitare che la punta tocchi la base, finendo per smussarsi con l'uso. Per la larghezza, fate un test controllando che sia abbastanza largo da far passare agilemente due corde di pelle.
+
+A proposito di quest'ultimo, io ho scelto di usare una pelle bovina scamosciata chiara per farlo risaltare rispetto alla pelle usata per il resto della scarsella. La scelta è stata dettata anche dalla pelle che avevo a disposizione, su questo uno si può sbizzarrire. L'unica cosa a cui fare attenzione è che sia abbastanza resistente (potrebbe essermisi rotta qualche volta, quella scamosciata) e sottile.
+
+La tecnica l'ho ricostruita dai disegni di *Purses in Pieces*. Risulta difficile da spiegare, provvederò a caricare un disegno per spiegarlo.
+
+Ultima nota, è importante prendere bene le misure per la corda, considerando più del doppio della lunghezza necessaria, considerando anche che dietro la scarsella vi è una parte finale che sporge e serve per chiudere la cucitura.
 
 ## Conclusioni
 
+Il risultato finale è questo:
+
+![finale effetto wow](/assets/img/scarsella/finale_frontal.webp)
+
+![finale scenografico](/assets/img/scarsella/finale_estetica.webp)
+
+Alla fine sono molto soddisfatto. La progettazione ha necessitato di tanta riflessione e qualche discussione con chi ci aveva già provato (grazie Aurora). Molte delle cose le ho risolte banalmente provandoci e trovando la soluzione che mi sembrava più logica. La consultazione di testi e video mi ha aiutato molto a capire come impostare il lavoro, ma è servito provare per mettere quei ponti che mancavano al processo.
+
+Sono orgolioso del risultato e ho già in mente modi per migliorare la seconda iterazione e provare nuovi design.
+
 Cose che mi sono piaciute:
+
 - La pelle scelta ha una resa stupenda
+- La fibbia in ottone è stupenda
+- Fare il carta modello è stato fondamentale per rendersi conto delle misure ed avere qualcosa di riutilizzabile. Realizzarlo in Inkscape prima lo ha reso anche condivisibile qui, cosa che apprezzo molto.
 
 Cose che farei diversamente:
+
 - La striscia di pelle che chiude il coperchio con la fibbia dovrebbe essere fissato diversamente al retro della scarsella. Farei delle cuciture che si estendono per la parte lunga della striscia in modo che la la suggetta striscia non si muova troppo a destra e a sinistra
 - Il modello potrebbe essere un po' piu' grande
 - Alla prossima, realizzerò un disegno sul coperchio
@@ -165,3 +191,8 @@ Tutti i file sono distribuiti con licenza [CC BY-NC-SA 4.0](https://creativecomm
 - [Vettoriale per il carta modello](/assets/img/scarsella/progetto_scarsella.svg)
 
 ## Referenze
+
+- Purses in Pieces: come referenza storica. Oltre ciò, il vedere le scarselle di artigiani più bravi di me ed attenti alla riproduzione storica
+- [Video YT su come scegliere il cuoio](https://youtu.be/vMwlrt6JBxc?si=6fBLigkMP4M4PIQL)
+- [Video YT su come tagliare il cuoio](https://youtu.be/U_0vTpO2ZdM?si=Y3p7QMnMAZB0dPn9)
+- Vari video YT mi son serviti sul punto sella. In particolare [questo](https://youtu.be/FxZsHLmZhyk?si=vALp6L65gM2d9eID) passo a passo, [questo](https://youtu.be/M74f0vHcImE?si=UEbyvaoxO2Tly-Rv) per alcuni consigli e [questo](https://youtu.be/yGV9Wm3A2OY?si=OMunRV3d4dbfIKEr&t=466) per la chiusura

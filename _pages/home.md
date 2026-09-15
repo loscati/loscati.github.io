@@ -13,7 +13,7 @@ This website tries to aggregate info, interests, ideas and everything that I can
 
 Currently, my interests are (in no particular order):
 - [late medieval fencing and re-enact](https://wiktenauer.com/wiki/Fiore_de%27i_Liberi)
-- Leather crafting
+- [Leather crafting](/2026/07/25/scarsella/)
 - High performance molecular dynamics simulations
 - Self-hosting
 - Taking nice looking photos with a second-hand [Nikon D3300](https://en.wikipedia.org/wiki/Nikon_D3300) and 35mm Nikon lens
