@@ -76,6 +76,14 @@ Host github.com
 ```
 note that `mykey` is the private key.
 
+#### clone a branch
+
+```bash
+git clone -b <branch_name> <url>
+cd <repo>
+git switch <branch_name>
+```
+
 ## Compilation
 
 #### rpath
