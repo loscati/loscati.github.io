@@ -2,54 +2,57 @@
 layout: post
 title: Scarsella di fine 1300
 date: 2026-07-25 01:59:00
-description: Realizzazione a mano di una borsetta dell'altro medioevo
+description: Realizzazione a mano di una borsetta del basso medioevo
 tags: craft rievocazione
 categories: craft
 ---
 
+!["Ho attirato la tua attenzione?" Visuale della scarsella finita](/assets/img/scarsella/finale_estetica.webp)
 
-Ho realizzato una scarsella, termine per indicare una borsa piccola da cintura, tipica dell'alto medioevo. Questo progetto nasce con molteplici scopi. Da 2 anni, sono all'interno di gruppi che studiano e praticano la scherma medievale. In essi, prima a Padova e poi a Bologna, una aprte dell'attività del gruppo è quella di andare a dei festival in giro per l'iItalia, vestirsi con abiti del tardo 1300 (riprodotti accuratamente, seguendo fonti storiche) e vivere qualche giorno come se non fossero passarti 700 anni.
-Probabilmente ne parlerò anche in altre occasioni, soprattutto dell'aspetto di combattimento, ma in questo post affronto una micro parte del vestiario, appunto la scarsella.
+Ho realizzato una scarsella, termine per indicare una borsa piccola da cintura, tipica del medioevo. Questo progetto nasce con molteplici scopi. Da 2 anni, sono all'interno di gruppi che studiano e praticano tecniche di scherma medievale. In essi, prima a Padova e poi a Bologna, una parte dell'attività del gruppo è quella di andare a dei festival in giro per l'Italia, vestirsi con abiti del tardo 1300 (riprodotti accuratamente, guardando alle miniature dell'epoca) e vivere qualche giorno come se non fossero passarti 700 anni (ehm fino ad un certo punto, comunque i bagni moderni non li abbandono).
+Probabilmente ne parlerò anche in altre occasioni, soprattutto dell'aspetto del combattimento, ma in questo post affronto una micro parte del vestiario, appunto la scarsella.
 
-In questi gruppi si cercano di fare molte cose da soli. Sia per riappropriarsi di una manualità che fa sempre comodo (sia per me che per fare regali ad amici) sia per non spendere tanti i milioni per farsio un vestito decente. Con questo in mente, mi sono messo in testa di imparare a lavorare la pelle. In altro post raccoglierà quanto serve per iniziare a farlo (anche se le fonti già disponibili ono più che esaurienti, vedi [sotto](#referenze)), qui racconterò come ho fatto la scarsella.
+In questi gruppi spesso vi è un forte interesse all'auto produzione e all'artigianato. Sia per riappropriarsi di una manualità che fa sempre comodo (sia per me stesso, che per fare regali ad amici) sia per non spendere tanti milioni per farsi un vestito decente. Con questo in mente, mi sono messo in testa di imparare a lavorare la pelle. Più avanti, scriverò di quanto serve per iniziare a farlo (ma qualcosa trovi anche qui, vedi [sotto](#referenze)), mentre qui racconterò come ho fatto la scarsella.
 
 ## Le basi
 
-Per essere filologici, la prima cosa da fare è guardarsi le miniature. Però, come qualche storico e filologo potrà convermarvi, capire da essa i dettagli di come realizzare l'oggetto è molto arduo. Quindi si guardano agli scritti del tempo, per rendersio conto che servono almeno una laurea per saperlo fare. Infine, ci si rivolge ai lavori accademici a riguardo.
+Per l'accuratezza filologica della scarsella, la prima cosa da fare è guardarsi le miniature. Però, come qualche amico storico o filologo potrà confermarvi, capire da essa i dettagli di come realizzare l'oggetto è molto arduo. Per cui, si guardano agli scritti del tempo, ad articoli moderni, si visitano musei e ci si rende conto che una laurea in storia alla fine può sempre tornare comodo. Infine, ci si rivolge agli artigiani moderni che già hanno passato questo supplizzio.
 
-Mio faro di speranza è il libro *Purses in Pieces*, libro moderno che racconta l'ABC di come le scarseele erano fatte: dalle cucitura, agli scompartimenti. Da notare che il libro porta molti esempi che arrivano dall'Inghilterra, essendo l'autore Inglese, ma che le somiglianze con i reperti Italiani sono molti; però è un aspetto da tener sott'occhio.
-Anche se il libro risulta di importanza centrale, alla fine l'aiuto di una persona in carne e d'ossa che abbia già maneggiato la pelle è di grande aiuto. Non necessario, ma sicuramente catalizzante nel percorso. Se in generale avete contatto con qualcuno che lavora o ha lavorato tessuto, cucendoli, sarà comunque di grande aiuto.
+Mio faro di speranza è il libro [*Purses in Pieces*](#referenze), libro moderno che racconta l'ABC di come le scarselle erano fatte (a pezzi, nel senso sia parte dopo parte che dei rimasugli giunti fino ad oggi): dalle cuciture, agli scompartimenti, passando per i motivi estetici. Da notare che il libro porta molti esempi che arrivano dall'Inghilterra, essendo l'autore Inglese, ma che le somiglianze con i reperti Italiani sono molti; però è un aspetto da tener sott'occhio.
+Anche se il libro risulta di importanza centrale, alla fine l'aiuto di una persona in carne e d'ossa che abbia già maneggiato la pelle è di grande aiuto. Non necessario, ma sicuramente catalizzante nel percorso. Se in generale avete contatto con qualcuno che lavora o ha lavorato con tessuti, sarà comunque di grande aiuto.
 
 ## Il modello
 
-Per la forma generale, ho scelto una forma spanciata a goccia, semplice e pratica. Molto comuni sono quelle che ricorda dei genitali maschili (l'obiettivo dovrebbe essere anche quello, ma non ho prove filologiche) ma non l'ho trovate adatte al mio personaggio perché quest'ultime ne ho viste più a persone di più alto rango sociale, mentre io sono un fabbricatore di botti.
+Per la forma generale, ho scelto una forma spanciata a goccia, semplice e pratica. Molto comuni sono quelle che ricorda dei genitali maschili, ma non l'ho trovate adatte al mio personaggio (un artigiano di botti di una bottega Bolognese) perché mi sembra di averne viste più a persone di alto rango sociale.
 
-Ho create la forma in vettoriale con Inkscape e si può vedere in vettoriale [qui](/assets/img/scarsella/progetto_scarsella.svg) o in pdf [qui](/assets/pdf/progetto_scarsella.pdf).
+Ho create la forma in vettoriale con Inkscape, che si può vedere in vettoriale [qui](/assets/img/scarsella/progetto_scarsella.svg) o in pdf [qui](/assets/pdf/progetto_scarsella.pdf) (con licenza CC-BY-NC-SA, come del resto ogni parte di questo sito).
 Quindi questo è la forma da stampare per il modello carta:
 
 ![modello carta scarsella](/assets/img/scarsella/progetto_scarsella.svg)
 
 Le dimensioni sono state scelte per riuscire a contenere un telefono di almeno 15x7.5x0.7 cm (altezza, larghezza, spessore). Un consiglio fondamentale dato da una compagna autodidatta sulle scarselle è: se ti sembrano grandi, non lo sono abbastanza. Non bisogna stare precisi al millimetro, soprattutto nei primi beta testing di un nuovo modello, perché tra cuciture, rigidità della pelle e altri fattori si rischia che la scarsella sia troppo piccola.
 
-Il mio progetto si compone di, principalmente, due parti: il posteriore e la sacca. Il primo è un pezzo unico che prende il posteriore della scarsella, la parte che si poggierà sulla gamba, mentre il secondo saraà la parte da cucire alla prima che formerà la tasca.
-Il design è il piuù semplice possibile che si può fare avendo una pelle un po' rigida (more on this later).
+Il mio progetto si compone di, principalmente, due parti: il posteriore e il frontale (a formare l'unico scompartimento). Il primo è un pezzo unico che prende il posteriore della scarsella, la parte che si poggierà sulla gamba, mentre il secondo sarà la parte da cucire alla prima che formerà la tasca.
+Il design è il più semplice possibile che si può fare avendo una pelle un po' rigida (more on this later).
 
-Il modello è poco più grande di un A4, per cui per stamparlo si possono usare servizi online come [questo](https://www.splitposter.site/). Poi gli A4 suggerisco di fissarli con scotch. A questo punto si può controllare che le dimensioni siano adeguate per il contenuto che vi si vuole mettere. Per me, basta il telefono.
+Il modello è poco più grande di un A4, per cui per stamparlo si possono usare servizi online come [questo](https://www.splitposter.site/). Comunque poi, i diversi fogli si possono fissare con lo scotch. A questo punto si può controllare che le dimensioni siano adeguate per il contenuto che vi si vuole mettere. Per me, basta il telefono.
+Se vi domandate perché proprio il telefono per un costume del 1300, perché anche io voglio fare delle foto ogni tanto.
 
-Altri modelli contemplano più scompartimenti, più tasche, più chiusure per una maggiore sicurezza. L'ultima era abnbastanza importante quando la scarsella teneva denari che i ladri volevno sfilarti in mezzo ad una folla (PICKPOCKEEEETS). Ho voluto mantenere la scarella semplice come primo progetto.
+Altri modelli contemplano più scompartimenti, più tasche, più chiusure per una maggiore sicurezza. L'ultima era abbastanza rilevante nel tempo in cui la scarsella teneva denari che i ladri volevano sfilarti in mezzo ad una folla (PICKPOCKEEEETS). Ho voluto mantenere la scarella semplice come primo progetto per non complicarmi troppo la vita.
 
-Per tagliare la pelle, suggerisco di fissare il modello con dello scotch, che perà abbia poca colla o il quale hai passato precedentemente sui vestiti per evitare che lasci colla sulla pelle. Usi il tuo taglierino (vedi [sotto](#gli-strumenti)) e ricavi un posterione/coperchio del tipo:
-![posteriore/coperchio ritagliato in pelle](/assets/img/scarsella/cucitura_fronte_retro.webp)
+Per tagliare la pelle, suggerisco di fissare il modello con dello scotch, che perà abbia poca colla o dopo averlo passato precedentemente sui vestiti per evitare che lasci segni di colla sulla pelle. Usa il tuo taglierino (vedi [la lista degli strumenti completa sotto](#gli-strumenti)) e ricavi un posterione/coperchio del tipo:
+
+![posteriore/coperchio ritagliato](/assets/img/scarsella/cucitura_fronte_retro.webp)
 
 ## La pelle
 
 Per questo progetto la pelle è stata scelta per convenienza. Non avendo grande disponibilità, sono andato su una pelle abbastanza rigida ma sottile. Queste scarselle vanno piegate e lavorate, non serve avere imporanti spessori per complicare queste procedure.
 
-La pelle scelta è stata di un laboratorio toscano (cosa non stupefacente) pagata 40 euro per più di un 1 metro quadro. Dovrebbe essere di prima o massimo seconda scelta, con solo un'imperfezione su un lato. Ho scelto una conciatura vegetale che lascia la pelle permeabile, colorata (molto bene) di un marrone con toni rossi. Non ricordo l'animale di provenienza, ma molto probabilmente è di vacca.
+La pelle scelta è stata di un laboratorio toscano (cosa non stupefacente) pagata 40 euro per più di un 1 metro quadro. Dovrebbe essere di prima o massimo seconda scelta, con solo un'imperfezione su un lato. Ho scelto una conciatura vegetale che lascia la pelle permeabile, colorata (molto bene) di un marrone con i toni rossi. Non ricordo l'animale di provenienza, ma molto probabilmente è di vacca.
 Si può apprezzare anche il lato "bello" della pelle da quest'immagine che mostra il retro dove ho fissato una delle stringhe che chiude il coperchio:
+
 ![parte bella e fermo per uno dei lacci a chiusura del coperchio](/assets/img/scarsella/retro.webp)
 
-La chiusura è stata fatto con questo motivo incrociato. Tornando indietro, avrei fatto una cucitura lungo la direzione del laccetto, per evitare che questo si muova a destra e a sinistra (cosa che fa ora ma che non dovrebbe).
 
 ## Gli strumenti
 
@@ -59,19 +62,20 @@ Di seguito, tutti i materiali utilizzati per realizzare la scarsella:
 
 - [pelle di vacca di 4 mm, poco rigida](#la-pelle) per la parte principale della scarsella
 - pelle morbida < 5mm per creare corde, io ho usato una pelle scamosciata di vacca che avevo a disposizione
-- filo di lino. Altre fibre vegetali come la seta andrebbe comunque bene, suppur più costosa; mentre il cotone non era molto presente nell'alto medioevo italiano. Può essere usato per convenienza ma al prezzo dell'accuratezza.
+- filo di lino. Altre fibre vegetali come la seta andrebbe comunque bene, suppur più costosa; mentre il cotone non era molto presente nel basso medioevo italiano. Può essere usato per convenienza ma al prezzo dell'accuratezza.
 - cera d'api, per cerare il filo
-- aghi per la lana. Esistono anche per la pelle però non strettamente necessari, basta che la punta sia smussata
-- punzoni a forchetta per la pelle (usate per la tecnica moderna della cucitura a mano). Queste vengono vendute per diverse distanze tra le punte, con diverse convenzioni (e relativi casini). Io ho usato delle forchette con distanza tra le punte di 5mm. Per semplicità nella foratura, ho usato forchette a due punte, le quali facilitano la foratura della pelle e la loro estrazione. Vengono vendutin set sia con più punte che singole, consiglio un set
-- un martello con testa in nylon. Di gomma o legno andrebbe comunque bene, questi non rovinano la forchetta in acciaio
-- tappeto in gomma da mettere sotto la pelle durante la foratura, le forchette vi si conficcano quanto si buca la pelle ed evitano che le punte si rovinino. Questi costano abbastanza ma basta prenderne uno piccolino, e.g. 20cmx15cm di 9mm di profondità
+- aghi per la lana. Esistono anche per la pelle però non sono strettamente necessari, basta che la punta sia smussata
+- punzoni a forchetta per la pelle (usate per la tecnica moderna della cucitura a mano). Queste vengono vendute per diverse distanze tra le punte, con diverse convenzioni (e relativi casini). Io ho usato delle forchette con distanza tra le punte di 5mm. Per semplicità nella foratura, ho usato forchette a due punte, le quali facilitano la foratura della pelle e la loro estrazione. Vengono vendute in set sia con più punte che singole, consiglio un set
+- un martello con testa in nylon. Di gomma o legno andrebbero comunque bene, questi non rovinano la forchetta in acciaio
+- tappeto in gomma da mettere sotto la pelle durante la foratura, le forchette vi si conficcano quanto si buca la pelle ed evitano che le punte si rovinino. Questi costano abbastanza ma basta prenderne uno piccolino, e.g. 20cmx15cm di 9mm di profondità l'ho pagato poco meno di 17 euro
 - accendino per rifinire le cuciture
 - taglierino. Ideale sarebbe un coltello per la pelle, e vi sono molti modelli "giapponesi" di ottima fattura ma costosi. Per iniziare basta un taglierino
+- un tappetino dove tagliare, in questo la LIDL regala molte gioie
 - un supporto dove tenere la pelle mentre si cuce. Canonicamente si usa uno strumento in legno chiamato pony da sellaio (clamp), ma io l'ho riprodotto con delle mollette attaccate ad un tavolo
-- fibbia in ottone
+- fibbia in ottone, questa è acquistabile online pagando più la spedizione che essa, oppure nei mercatini dell'artigianato o con un focus sul medioevale/celtico/folk
 - pinza fustellatrice
 
-Opzionale si può prendere anche un colorante (dye) per rifinire i lati della pelle della scarsella per mantenere il colore della pelle anche nei lati.
+Opzionale si può prendere anche un colorante (dye) per rifinire i lati della pelle, per mantenere il colore della pelle anche nei lati che sono stati tagliati ed espongono la parte posteriore (non bella e non colorata).
 
 ## Procedimento
 
@@ -79,47 +83,49 @@ Opzionale si può prendere anche un colorante (dye) per rifinire i lati della pe
 
 Molto semplice: si mette il carta modello sulla pelle, si posiziona per evitare di sprecarla, costa!, per poi tagliate con il taglierino. Si può usare dello scotch poco adesivo, o dopo aver passato la parte appiccicosa su un tessuto per evitare di lasciare segni sulla pelle, per mantenere il modello fermo.
 
-Come si taglia la pelle per avere un taglio pulito? lama affilata e taglierino con lama perpendicolare al tavolo, no angoli. Quando si fanno curve, ruotate il corpo è meglio del carta modello.
+Come si taglia la pelle per avere un taglio pulito? lama affilata e taglierino con lama perpendicolare al tavolo, no angoli. Quando si fanno curve, ruotate il corpo è meglio del carta modello. Un bel video con molti consigli lo si può trovare nella [videografia in fondo](#referenze).
 
 Un consiglio al Leonardo principiante: non ripassare un taglio, cerca di farlo diventare un unico movimento, ne gioverà la qualità del taglio.
 
 Si dovrebbero ottenere due pezzi: il più lungo che sarà il retro e il coperchio della scarsella, e il più piccolo che formerà la tasca.
-Il più piccolo ha i bordi che saranno cuciti definiti, mentre il lato.dove sarà l'apertura, no. Qui lascio all'artigiano la libertà di capire quanto tagliare. Il mio consiglio è di non tagliarla come linea retta ma di dargli una concavità, come una mezza luna. Così da facilitare l'ingresso alla tasca.
+Il più piccolo ha i bordi che saranno cuciti definiti, mentre il lato dove ci sarà l'apertura, no. Qui lascio all'artigiano la libertà di capire quanto tagliare. Il mio consiglio è di non tagliarla come linea retta ma di dargli una concavità, come una mezza luna. Così da facilitare l'ingresso alla tasca.
 
 ### La fibbia per chiudere in maniera sicura la scarsella
 
-Prima di cucire i due pezzi, serve fissare il lembo di pelle che chiudera la cinghia del coperchio.
+Prima di cucire i due pezzi, serve fissare il lembo di pelle che chiuderà la cinghia del coperchio.
 
-Per ricavare il lembo di pelle dovete tenere a mente le seguenti cose. Per la lunghezza, misurate dove lo fisserete e dove deve arrivare una volta chiuso il coperchio (fate pure una prova chiudendo il coperchio nella parte di pelle più grande). Inoltre, considerate un lembo aggiuntivo di 4cm o più perché servirà per fissare la fibbia. Per la lunghezza, consideratene abbastanza per riuscire a passare dentro la fibbia, nella sua parte centrale, quella con la parte che si inserisce nei buchi. 
+Per ricavare il lembo di pelle dovete tenere a mente le seguenti cose. Per la lunghezza, misurate dove lo fisserete e dove deve arrivare una volta chiuso il coperchio (fate pure una prova chiudendo il coperchio nella parte di pelle più grande). Inoltre, considerate un lembo aggiuntivo di 4cm o più perché servirà per fissare la fibbia. Per la lunghezza, consideratene abbastanza per riuscire a passare dentro la fibbia, nella sua parte centrale, quella con la parte che si inserisce nei buchi.
 
-L'immagine sopra rappresenta la cucitura fatta. A mio avviso, sarebbe stato meglio fare una cucitura più in lunghezza, nel senso che imvece di essere un quadrato (cucito con questo motivo a quadrato e x, provvisato da me, senza particolari studi) sarebbe stato meglio un parallele pipedo oppure due linee di cucitura a sella dai due lati. Con l'idea di nom farlo dondolare a destra e sinistra.
+L'immagine sopra rappresenta la cucitura fatta. A mio avviso, sarebbe stato meglio fare una cucitura più in lunghezza, ovvero invece di avere un quadrato (cucito con questo motivo a quadrato e x, provvisato da me, senza particolari studi) sarebbe stato meglio un parallele pipedo oppure due linee di cucitura a sella nei due lati. Con l'idea di minimizzare il dondolare a destra e sinistra.
 Più dettagli sul punto sella, più avanti.
 
-Il filo è di lino color naturale, che prima di inserire ho passato nel cubo di cera d'api per renderlo più scorrevole.
+Il filo è di lino color naturale, che prima di usare ho passato per la cera d'api per renderlo più scorrevole.
 La pelle è stata forata con il punzone a forchetta singola, facendo attenzione a non bucate troppo vicino al bordo, tenendo circa 3-4 mm. Questo vale in generale per la cucitura di pelli sottili, buchi vicino al bordo indeboliscono la pelle.
 Ho prima forato la lingua di pelle, e poi, appoggiandola sopra al pezzo che fa da retro, ho segnato con una matita dove forarlo e poi ho smartellato.
-farlo prende veramente 5 minuti.
+Farlo prende veramente 5 minuti.
 
 A questo punto si può anche mettere la fibbia. Io prendo l'altro lembo della lingua di pelle appena fissata e la avvolgo alla fibbia. Bisogna prima creare un foro per il pirulino (fidatevi, termine tecnico >.>), inserire la fibbia (attenzione al verso! controllate che sia nella posizione giusta quando poi chiuderete il tutto) e girare la lingua per chiuderlo.
-Io foro la pelle e faccio 4 punti da cucire poi a sella (più dettagli, più avanti). Una cucitura che faccio con premura perché sempre visibile, ma anche molto semplice.
-Se la pelle risultasse difficile da piegare nel punto che avvolge la fibbia, si può assottigliare tagliandone un millimetro della parte "brutta". Questa parte richiede un po' di precisione, ma ricorda il tagliare una focaccia per aprirla oppure un pam di spagna appena cotto. Bisogna stare attenti ma è semplice.
+Ho forato la pelle in 4 punti da cucire poi a sella (più dettagli, più avanti). Una cucitura che faccio con premura perché sempre visibile, seppur molto semplice.
+Se la pelle risultasse difficile da piegare nel punto che avvolge la fibbia, si può assottigliare tagliandone un millimetro dalla parte "brutta". Questa parte richiede un po' di precisione, ma ricorda il tagliare una focaccia per aprirla oppure un pam di spagna appena cotto per spianarlo.
 
 ### Un disegno?
 
-A questo stadio, se uno volesse decorare il coperchio della scarsella, sarebbe opportuno prendere gli strumenti (ci si vede ad un futuro post) e realizzarlo. Così da non avere in mezzo l'altro pezzo.
+A questo punto, se uno volesse decorare il coperchio della scarsella, sarebbe opportuno prendere gli strumenti (ehm foreshadowing per un futuro post) e realizzarlo. Così da non avere in mezzo l'altro pezzo.
 
 Questo sarà sicuramente un miglioramento per la prossima scarsella.
 
 ### Baciare le due parti e la cucitura a sella
 
-Dopo molto ragionamento, ho optato per la chiusura piu' semplice. Per rimanere filologico e per sfruttare la pelle a mia disposizione (quella sopra citata) ho deciso di creare la sacca della scarsella unendo, banalmente, le due parti.
+Dopo molto ragionamento, ho optato per la chiusura piu' semplice. Per rimanere filologico e per sfruttare la pelle a mia disposizione ho deciso di creare la sacca della scarsella unendo, banalmente, le due parti.
 
-Si parte dalle parti "belle" della pelle che si devono "baciare", come descrive la madre di una mia compagna di rievocazione. Per poi procedere con l'effettiva cucitura. Prima di iniziare, assicurarsi che la parte anteriore del lembo di pelle abbia il bordo che farà da ingresso alla scarsella abbastanza "slabbrato". Se lasciate quel lato lineare, rischiate che poi sarà difficile inserire qualsiasi cosa.
+Si parte dalle parti "belle" della pelle che si devono "baciare", come descrive la madre di una mia compagna di rievocazione. Per poi procedere con l'effettiva cucitura. Prima di iniziare, assicurarsi che la parte anteriore del lembo di pelle abbia il bordo che farà da ingresso alla scarsella abbastanza "slabbrato". Se lasciate quel lato dritto, rischiate che sia difficile inserire qualsiasi cosa.
 
-Per la cucitura ho scelto una a sella. Non è filologica, ma questa finirà dentro la sacca e quindi nascosta da occhi indiscreti di filologi iracondi. Ho fissato i due lembi di pelle con 3 pezzettini di scotch, tanto è la parte interna, e poi ho inziato a bucherellare. Ho usato un punzone a forchetta con singola punta, una baglionetta praticamente. Così da forare ed estrarre meglio l'arnese. Prende un po' di tempo, circa 2 orette per una mano non allenata come la mia, ma giuro è catartico.
+Per la cucitura ho scelto il punto sella. Non è filologica, ma questi finiranno dentro la sacca e quindi nascosta da occhi indiscreti di filologi iracondi. Ho fissato i due lembi di pelle con 3 pezzettini di scotch, tanto è la parte interna, e poi ho inziato a bucherellare. Ho usato un punzone a forchetta con singola punta, una baglionetta praticamente. Così da forare ed estrarre meglio l'arnese. Prende un po' di tempo, circa 2 orette per una mano non allenata come la mia, ma giuro è catartico.
 
-Io ho proceduto bucando e poi cucendo, a mano a mano. Per il filo ho usato la regola del "prendo abbastanza filo per coprire il percorso che devo fare e lo triplico". La tecnica mi è stata tramandata da un maestro che insegna l'arte del cuoio e fa un ippocraso divino. Io lo riporto *ipse dixit*. Ricordate di cerare il vostro filo prima dell'utilizzo. Questo renderà più semplice la chiusura con l'accendino e, credo, migliorerà la scorrevolezza.
-Dico credo perché tutti mi hanno detto avrebbe fatto la differenza, ma io in realtà è come se avessi irrigidito ed aumentato l'attrito del filo. Quindi non so, vedete voi.
+![esempio di foratura](/assets/img/scarsella/foratura_con_singolo_spunzone.webp)
+
+Io ho proceduto bucando e poi cucendo, man mano. Per il filo ho usato la regola del "prendo abbastanza filo per coprire il percorso che devo fare e lo triplico". La tecnica mi è stata tramandata da un maestro che insegna l'arte del cuoio e fa un ippocrasso divino. Io lo riporto *ipse dixit*. Ricordate di cerare il vostro filo prima dell'utilizzo. Questo renderà più semplice la chiusura con l'accendino e, credo, migliorerà la scorrevolezza.
+Dico "credo" perché tutti mi hanno detto avrebbe fatto la differenza, ma io in realtà è come se avessi irrigidito ed aumentato l'attrito del filo. Quindi non so, vedete voi.
 
 Lascio la spiegazione del punto sella ad alcuni video, che finiranno per essere molto più esplicativi di me. Adoro l'approccio passo a passo di [J.H. Leather](https://youtu.be/FxZsHLmZhyk?si=gE3kcGTkmzqvWUEP) (ion inglese) con tanto dei suoi trucchi per renderlo simmetrico; hanno migliorato la mia tecnica i consigli di [Azelio](https://youtu.be/M74f0vHcImE?si=qIfPbHSDtVQtw9FD); infine mi ha salvato la chiusura spiegata da [Adhras art](https://youtu.be/yGV9Wm3A2OY?si=yOaSZ4oazZVN0nTZ) (link al minuto del consiglio).
 
@@ -137,9 +143,9 @@ Con tanto di chiusura e bruciatura del filo (cerato):
 
 Infine, ci serve di ribaltare la situazione.
 
-La pelle in mio possesso era un po' rigida, per cui serviva uno stratagemma per ribaltarla a calzino e far vedere finalmente la parte bella della scarsella. La tecnica mi è arrivata in sogno in una notte di mezz'estate. Se per sogno si intende una gita alla fiera di [Usi e Costumi](https://www.usiecostumi.org/) di Ferrara, e per notte di mezz'estate si intende la venuta di un mastro calzolaio che mi ha scherzato "ma come?! ma certo che la pelle si ammorbidisce se bagnata. Guarda come beve!" spruzzandola d'acqua.
+La pelle in mio possesso era un po' rigida, per cui serviva uno stratagemma per ribaltarla a calzino e far vedere finalmente la parte bella della scarsella. La tecnica mi è arrivata in sogno in una notte di mezz'estate. Se per sogno si intende una gita alla fiera di [Usi e Costumi](https://www.usiecostumi.org/) di Ferrara, e per notte di mezz'estate si intende la venuta di un mastro calzolaio che mi ha scherzato "ma come?! ma certo che la pelle si ammorbidisce se bagnata. Guarda come beve!" spruzzando d'acqua una scarpa in pelle realizzata a mano.
 
-Per cui, il modo per ribaltarla è tanta acqua, proprio da impregnarla questa pelle, un po' di pazienza e una cucchiara (o mestolo in legno da cucina). Quest'ultimo ha la capacità di essere comodo per finire il lavoro in alcuni angoli, come questi:
+Per cui, il modo per ribaltarla è tanta acqua, proprio da impregnarla, un po' di pazienza e una cucchiara (o mestolo in legno da cucina). Quest'ultimo ha la capacità di essere comodo per finire il lavoro in alcuni angoli, come questi:
 
 ![ribalta la mossa!](/assets/img/scarsella/calsino.webp)
 
@@ -147,15 +153,15 @@ Abbiate pazienza, riuscirete.
 
 ### Chiudere la parte superiore
 
-Ora rimane che cucire i due lembi superiori per formare dei passanti dove far scorrere la cintura. Questa chiusura, invece di essere noiosamente chiusa dal tessuto, di solito usa un "filo" di pelle per chiudere e decorare. Per cui abbellisce e rende più interessante la parte frontare della scarsella, con motivi e ricami che possono andare dal semplice °punto erba° (con questa corda di pelle che va prima da un aparte, e poi dall'altra) o arzigogoli più o meno intricati. Tutti accurati storicamente. Anche qui *Purses in Pieces* viene in aiuto descrivendo bene i patterns, che pero' non posso riportare qui.
+Ora rimane che cucire i due lembi superiori per formare dei passanti dove far scorrere la cintura. Questa chiusura, invece di essere noiosamente chiusa dal filo, di solito usa un "filo" di pelle per chiudere e decorare. Per cui abbellisce e rende più interessante la parte frontare della scarsella, con motivi e ricami che possono andare dal semplice "punto erba" (con questa corda di pelle che va prima da un aparte, e poi dall'altra) o arzigogoli più o meno intricati. Tutti accurati storicamente. Anche qui, *Purses in Pieces* viene in aiuto descrivendo bene i patterns, che pero' non posso riportare qui.
 
 Quello scelto da me è fatto così:
 
 ![Un bel pattern](/assets/img/scarsella/stringhe_progresso.webp)
 
-Intanto la preparazione. Ricordo qui che [*if you gonna cut once you better measure twice*](https://youtu.be/sfcaaKnl7T4?si=teDPiSw2euGidd7Y), ovvero contate bene quanti buchi fare e dove per renderlo simmetrico. Come potete vedere, io ho fatto un piccolo errore di calcolo. Mentre invece il buco in sé, è fatto con la pinza fustellatrice. Da ricordarsi un pezzo di crosta o di cuoio abbastanza spesso da mettere sulla base della fustellatrice, così da evitare che la punta tocchi la base, finendo per smussarsi con l'uso. Per la larghezza, fate un test controllando che sia abbastanza largo da far passare agilemente due corde di pelle.
+Intanto la preparazione. Ricordo qui che [*if you gonna cut once you better measure twice*](https://youtu.be/sfcaaKnl7T4?si=teDPiSw2euGidd7Y), ovvero contate bene quanti buchi fare e dove per renderlo simmetrico. Come potete vedere, io ho fatto un piccolo errore di calcolo. Mentre invece il buco in sé, è fatto con la pinza fustellatrice. Da ricordarsi un pezzo di crosta o di cuoio abbastanza spesso da mettere sulla base della fustellatrice, così da evitare che la punta tocchi la base, finendo per smussarsi con l'uso. Per la larghezza, fate un test controllando che il buco abbia il diametro abbastanza largo da far passare agilemente due corde di pelle.
 
-A proposito di quest'ultimo, io ho scelto di usare una pelle bovina scamosciata chiara per farlo risaltare rispetto alla pelle usata per il resto della scarsella. La scelta è stata dettata anche dalla pelle che avevo a disposizione, su questo uno si può sbizzarrire. L'unica cosa a cui fare attenzione è che sia abbastanza resistente (potrebbe essermisi rotta qualche volta, quella scamosciata) e sottile.
+A proposito di quest'ultimo, io ho scelto di usare una pelle bovina scamosciata chiara per farlo risaltare rispetto alla pelle rossiccia della scarsella. La scelta è stata dettata anche dalla pelle che avevo a disposizione, su questo uno si può sbizzarrire. L'unica cosa a cui fare attenzione è che sia abbastanza resistente (potrebbe essermisi rotta qualche volta, quella scamosciata) e sottile.
 
 La tecnica l'ho ricostruita dai disegni di *Purses in Pieces*. Risulta difficile da spiegare, provvederò a caricare un disegno per spiegarlo.
 
