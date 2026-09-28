@@ -12,6 +12,7 @@ description: "List(s) of resources that I find myself going back to"
 ### hpc
 - [spack](/resources/spack)
 - [slurm](/resources/slurm)
+- [gpu](/resources/gpu)
 
 ### backpacking
 - [pool](/resources/pool)
