@@ -27,10 +27,10 @@ collections:
 # individual notebook-bearing posts are reachable by linking to them
 # from other pages, not from the top nav.
 nav_links:
+  - title: brief
+    url: /brief/
   - title: blog
     url: /posts/
-  - title: cv
-    url: /cv/
   - title: teaching
     url: /teaching/
   - title: 📋
