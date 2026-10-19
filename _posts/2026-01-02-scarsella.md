@@ -163,7 +163,9 @@ Intanto la preparazione. Ricordo qui che [*if you gonna cut once you better meas
 
 A proposito di quest'ultimo, io ho scelto di usare una pelle bovina scamosciata chiara per farlo risaltare rispetto alla pelle rossiccia della scarsella. La scelta è stata dettata anche dalla pelle che avevo a disposizione, su questo uno si può sbizzarrire. L'unica cosa a cui fare attenzione è che sia abbastanza resistente (potrebbe essermisi rotta qualche volta, quella scamosciata) e sottile.
 
-La tecnica l'ho ricostruita dai disegni di *Purses in Pieces*. Risulta difficile da spiegare, provvederò a caricare un disegno per spiegarlo.
+La tecnica l'ho ricostruita dai disegni di *Purses in Pieces*. Risulta difficile da spiegare, ma un immagine (priva di copyright) è la miglior spiegazione:
+
+![disegno della chiusura](/assets/img/scarsella/cucitura.webp)
 
 Ultima nota, è importante prendere bene le misure per la corda, considerando più del doppio della lunghezza necessaria, considerando anche che dietro la scarsella vi è una parte finale che sporge e serve per chiudere la cucitura.
 
