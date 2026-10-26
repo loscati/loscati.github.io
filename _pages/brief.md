@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brief
+title: brief
 permalink: /brief/
 description: "A 2 minute description of myself"
 ---

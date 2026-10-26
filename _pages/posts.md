@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: blog
 permalink: /posts/
 ---
-
-# blog
 
 <ul class="post-list">
   {%- for post in site.posts %}

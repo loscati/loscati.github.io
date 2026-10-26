@@ -27,6 +27,8 @@ collections:
 # individual notebook-bearing posts are reachable by linking to them
 # from other pages, not from the top nav.
 nav_links:
+  - title: now
+    url: /now/
   - title: brief
     url: /brief/
   - title: blog
@@ -38,6 +40,9 @@ nav_links:
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+
+kramdown:
+  syntax_highlighter: rouge
 
 exclude:
   - Gemfile
