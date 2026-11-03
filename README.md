@@ -36,15 +36,17 @@ assets/photos/           your photo files, organized by album
 3. Command Palette → **Dev Containers: Reopen in Container**.
 4. Once it's built:
    ```bash
-   bundle exec jekyll serve --livereload
+   bundle exec jekyll serve
    ```
 5. Open http://localhost:4000
+
+Note: VSCode reuse the same container once spanwed.
 
 ### Option B — local Ruby install
 
 ```bash
 bundle install
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve
 ```
 
 ## Pages vs posts

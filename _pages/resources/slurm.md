@@ -47,7 +47,7 @@ sreport cluster AccountUtilizationByUser Accounts=PROJECT Start=2025-09-29 End=2
 
 #### Cluster report
 
-Brief cluster usage right now:
 ```bash
-sreport -t percent -T ALL cluster utilization
+sinfo --summarize
 ```
+A/I/O/T = allocated / idle / other/ total. [`sinfo`](https://slurm.schedmd.com/sinfo.html)

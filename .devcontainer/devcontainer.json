@@ -1,17 +1,15 @@
 {
   "name": "jekyll-site",
-  "image": "docker.io/jekyll/jekyll:4",
+  "build": { "dockerfile": "Dockerfile" },
+  "remoteUser": "jekyll",
+  "updateRemoteUserUID": true,
   "workspaceFolder": "/srv/jekyll",
   "workspaceMount": "source=${localWorkspaceFolder},target=/srv/jekyll,type=bind,consistency=cached",
 
   "postCreateCommand": "bundle install",
 
-  "containerEnv": {
-    "JEKYLL_UID": "1000",
-    "JEKYLL_GID": "1000"
-  },
-
   "forwardPorts": [4000, 35729],
+
   "portsAttributes": {
     "4000": { "label": "Jekyll site", "onAutoForward": "openPreview" },
     "35729": { "label": "LiveReload" }
